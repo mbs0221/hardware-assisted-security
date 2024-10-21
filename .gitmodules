@@ -1,48 +1,48 @@
 [submodule "awesome-vmx/dune"]
 	path = vmx/dune
-	url = https://github.com/project-dune/dune.git
+	url = git@github.com:project-dune/dune.git
 [submodule "awesome-vmx/vmi-unpack"]
 	path = vmx/vmi-unpack
-	url = https://github.com/carter-yagemann/vmi-unpack.git
+	url = git@github.com:carter-yagemann/vmi-unpack.git
 [submodule "awesome-vmx/Hypervisor-From-Scratch"]
 	path = vmx/Hypervisor-From-Scratch
-	url = https://github.com/SinaKarvandi/Hypervisor-From-Scratch.git
+	url = git@github.com:SinaKarvandi/Hypervisor-From-Scratch.git
 [submodule "awesome-vmx/libvmi"]
 	path = vmx/libvmi
-	url = https://github.com/libvmi/libvmi.git
+	url = git@github.com:libvmi/libvmi.git
 [submodule "awesome-vmx/libmicrovmi"]
 	path = vmx/libmicrovmi
-	url = https://github.com/Wenzel/libmicrovmi.git
+	url = git@github.com:Wenzel/libmicrovmi.git
 [submodule "awesome-vmx/vmsh"]
 	path = vmx/vmsh
-	url = https://github.com/Mic92/vmsh.git
+	url = git@github.com:Mic92/vmsh.git
 [submodule "awesome-mpk/mpkalloc"]
 	path = mpk/mpkalloc
-	url = https://github.com/BUseclab/mpkalloc.git
+	url = git@github.com:BUseclab/mpkalloc.git
 [submodule "awesome-mpk/The-Cerberus-Project"]
 	path = mpk/The-Cerberus-Project
-	url = https://github.com/ku-leuven-msec/The-Cerberus-Project.git
+	url = git@github.com:ku-leuven-msec/The-Cerberus-Project.git
 [submodule "awesome-mpk/PKRU-Safe"]
 	path = mpk/PKRU-Safe
-	url = https://github.com/securesystemslab/PKRU-Safe.git
+	url = git@github.com:securesystemslab/PKRU-Safe.git
 [submodule "awesome-mpk/memsentry"]
 	path = mpk/memsentry
-	url = https://github.com/vusec/memsentry.git
+	url = git@github.com:vusec/memsentry.git
 [submodule "awesome-sgx/sgx-wallet"]
 	path = sgx/sgx-wallet
-	url = https://github.com/asonnino/sgx-wallet.git
+	url = git@github.com:asonnino/sgx-wallet.git
 [submodule "awesome-sgx/atc22-ae"]
 	path = sgx/atc22-ae
-	url = https://github.com/HyperEnclave/atc22-ae.git
+	url = git@github.com:HyperEnclave/atc22-ae.git
 [submodule "awesome-sgx/linux-sgx-driver"]
 	path = sgx/linux-sgx-driver
-	url = https://github.com/intel/linux-sgx-driver.git
+	url = git@github.com:intel/linux-sgx-driver.git
 [submodule "awesome-sgx/Awesome-SGX-Open-Source"]
 	path = sgx/Awesome-SGX-Open-Source
-	url = https://github.com/Maxul/Awesome-SGX-Open-Source.git
+	url = git@github.com:Maxul/Awesome-SGX-Open-Source.git
 [submodule "awesome-sgx/linux-sgx"]
 	path = sgx/linux-sgx
-	url = https://github.com/intel/linux-sgx.git
+	url = git@github.com:intel/linux-sgx.git
 [submodule "sgx/opensgx"]
 	path = sgx/opensgx
 	url = git@github.com:sslab-gatech/opensgx.git
@@ -289,3 +289,123 @@
 [submodule "sev/sev-ciphertext-side-channels"]
 	path = sev/sev-ciphertext-side-channels
 	url = git@github.com:UzL-ITS/sev-ciphertext-side-channels.git
+[submodule "sgx101-gitbook"]
+	path = sgx101-gitbook
+	url = https://github.com/sslab-gatech/sgx101-gitbook.git
+[submodule "sgx-lkl"]
+	path = sgx-lkl
+	url = https://github.com/lsds/sgx-lkl.git
+[submodule "sgx-reencrypt"]
+	path = sgx-reencrypt
+	url = https://github.com/kudelskisecurity/sgx-reencrypt.git
+[submodule "bioinfo-meets-sgx"]
+	path = bioinfo-meets-sgx
+	url = https://github.com/StanPlatinum/bioinfo-meets-sgx.git
+[submodule "incubator-teaclave-sgx-sdk"]
+	path = incubator-teaclave-sgx-sdk
+	url = https://github.com/apache/incubator-teaclave-sgx-sdk.git
+[submodule "linux-sgx"]
+	path = linux-sgx
+	url = https://github.com/intel/linux-sgx.git
+[submodule "linux-sgx-cat"]
+	path = linux-sgx-cat
+	url = https://github.com/StanPlatinum/linux-sgx-cat.git
+[submodule "occlum"]
+	path = occlum
+	url = https://github.com/occlum/occlum.git
+[submodule "opensgx"]
+	path = opensgx
+	url = git@github.com:sslab-gatech/opensgx.git
+[submodule "reproduce-asplos20"]
+	path = reproduce-asplos20
+	url = https://github.com/occlum/reproduce-asplos20.git
+[submodule "sgxbounds"]
+	path = sgxbounds
+	url = https://github.com/tudinfse/sgxbounds.git
+[submodule "SGXCryptoFile"]
+	path = SGXCryptoFile
+	url = https://github.com/rscosta/SGXCryptoFile.git
+[submodule "sgxdedup"]
+	path = sgxdedup
+	url = https://github.com/jingwei87/sgxdedup.git
+[submodule "SGXGauge"]
+	path = SGXGauge
+	url = https://github.com/srsarangi/SGXGauge.git
+[submodule "sgxjail"]
+	path = sgxjail
+	url = git@github.com:IAIK/sgxjail.git
+[submodule "sgxlock"]
+	path = sgxlock
+	url = git@github.com:blocksecteam/sgxlock.git
+[submodule "sgx-migration"]
+	path = sgx-migration
+	url = https://github.com/SSGAalto/sgx-migration.git
+[submodule "SgxPectre"]
+	path = SgxPectre
+	url = git@github.com:OSUSecLab/SgxPectre.git
+[submodule "sgxrop"]
+	path = sgxrop
+	url = https://github.com/IAIK/sgxrop.git
+[submodule "sgx-sample"]
+	path = sgx-sample
+	url = https://github.com/jovanbulck/sgx-sample.git
+[submodule "SGX-Shield"]
+	path = SGX-Shield
+	url = https://github.com/jaebaek/SGX-Shield.git
+[submodule "sgx-tutorial-ccs17"]
+	path = sgx-tutorial-ccs17
+	url = https://github.com/sslab-gatech/sgx-tutorial-ccs17.git
+[submodule "sgx-tutorial-space18"]
+	path = sgx-tutorial-space18
+	url = https://github.com/jovanbulck/sgx-tutorial-space18.git
+[submodule "sgx-wallet"]
+	path = sgx-wallet
+	url = https://github.com/asonnino/sgx-wallet.git
+[submodule "tsx-in-sgx"]
+	path = tsx-in-sgx
+	url = https://github.com/StanPlatinum/tsx-in-sgx.git
+[submodule "Tutorial-Password-Manager-with-Intel-SGX"]
+	path = Tutorial-Password-Manager-with-Intel-SGX
+	url = https://github.com/IntelSoftware/Tutorial-Password-Manager-with-Intel-SGX.git
+[submodule "Aurora"]
+	path = Aurora
+	url = https://github.com/Maxul/Aurora.git
+[submodule "Panoply"]
+	path = Panoply
+	url = https://github.com/shwetasshinde24/Panoply.git
+[submodule "linux-sgx-mage"]
+	path = linux-sgx-mage
+	url = https://github.com/donnod/linux-sgx-mage.git
+[submodule "Awesome-SGX-Open-Source"]
+	path = Awesome-SGX-Open-Source
+	url = https://github.com/Maxul/Awesome-SGX-Open-Source.git
+[submodule "linux-sgx-driver"]
+	path = linux-sgx-driver
+	url = https://github.com/intel/linux-sgx-driver.git
+[submodule "TresorSGX"]
+	path = TresorSGX
+	url = https://github.com/ayeks/TresorSGX
+[submodule "atc22-ae"]
+	path = atc22-ae
+	url = https://github.com/HyperEnclave/atc22-ae.git
+[submodule "0xbadc0de"]
+	path = 0xbadc0de
+	url = https://github.com/jovanbulck/0xbadc0de.git
+[submodule "tutorial-dsn18"]
+	path = tutorial-dsn18
+	url = https://github.com/sancus-tee/tutorial-dsn18.git
+[submodule "uranus"]
+	path = uranus
+	url = https://github.com/hku-systems/uranus.git
+[submodule "PopSGX"]
+	path = PopSGX
+	url = https://github.com/Zildj1an/PopSGX.git
+[submodule "DEBE"]
+	path = DEBE
+	url = https://github.com/yzr95924/DEBE.git
+[submodule "mnist-in-enclave"]
+	path = mnist-in-enclave
+	url = https://github.com/StanPlatinum/mnist-in-enclave.git
+[submodule "stealthdb"]
+	path = cryptograph/stealthdb
+	url = https://github.com/cryptograph/stealthdb
