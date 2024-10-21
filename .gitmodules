@@ -2,410 +2,569 @@
 	path = vmx/dune
 	url = git@github.com:project-dune/dune.git
 [submodule "awesome-vmx/vmi-unpack"]
-	path = vmx/vmi-unpack
+	path = intel/vmx/vmi-unpack
 	url = git@github.com:carter-yagemann/vmi-unpack.git
 [submodule "awesome-vmx/Hypervisor-From-Scratch"]
-	path = vmx/Hypervisor-From-Scratch
+	path = intel/vmx/Hypervisor-From-Scratch
 	url = git@github.com:SinaKarvandi/Hypervisor-From-Scratch.git
 [submodule "awesome-vmx/libvmi"]
-	path = vmx/libvmi
+	path = intel/vmx/libvmi
 	url = git@github.com:libvmi/libvmi.git
 [submodule "awesome-vmx/libmicrovmi"]
-	path = vmx/libmicrovmi
+	path = intel/vmx/libmicrovmi
 	url = git@github.com:Wenzel/libmicrovmi.git
 [submodule "awesome-vmx/vmsh"]
-	path = vmx/vmsh
+	path = intel/vmx/vmsh
 	url = git@github.com:Mic92/vmsh.git
 [submodule "awesome-mpk/mpkalloc"]
-	path = mpk/mpkalloc
+	path = intel/mpk/mpkalloc
 	url = git@github.com:BUseclab/mpkalloc.git
 [submodule "awesome-mpk/The-Cerberus-Project"]
-	path = mpk/The-Cerberus-Project
+	path = intel/mpk/The-Cerberus-Project
 	url = git@github.com:ku-leuven-msec/The-Cerberus-Project.git
 [submodule "awesome-mpk/PKRU-Safe"]
-	path = mpk/PKRU-Safe
+	path = intel/mpk/PKRU-Safe
 	url = git@github.com:securesystemslab/PKRU-Safe.git
 [submodule "awesome-mpk/memsentry"]
-	path = mpk/memsentry
+	path = intel/mpk/memsentry
 	url = git@github.com:vusec/memsentry.git
 [submodule "awesome-sgx/sgx-wallet"]
-	path = sgx/sgx-wallet
+	path = intel/sgx/sgx-wallet
 	url = git@github.com:asonnino/sgx-wallet.git
 [submodule "awesome-sgx/atc22-ae"]
-	path = sgx/atc22-ae
+	path = intel/sgx/atc22-ae
 	url = git@github.com:HyperEnclave/atc22-ae.git
 [submodule "awesome-sgx/linux-sgx-driver"]
-	path = sgx/linux-sgx-driver
+	path = intel/sgx/linux-sgx-driver
 	url = git@github.com:intel/linux-sgx-driver.git
 [submodule "awesome-sgx/Awesome-SGX-Open-Source"]
-	path = sgx/Awesome-SGX-Open-Source
+	path = intel/sgx/Awesome-SGX-Open-Source
 	url = git@github.com:Maxul/Awesome-SGX-Open-Source.git
 [submodule "awesome-sgx/linux-sgx"]
-	path = sgx/linux-sgx
+	path = intel/sgx/linux-sgx
 	url = git@github.com:intel/linux-sgx.git
 [submodule "sgx/opensgx"]
-	path = sgx/opensgx
+	path = intel/sgx/opensgx
 	url = git@github.com:sslab-gatech/opensgx.git
 [submodule "sgx/sgxjail"]
-	path = sgx/sgxjail
+	path = intel/sgx/sgxjail
 	url = git@github.com:IAIK/sgxjail.git
 [submodule "vmx/dune"]
-	path = vmx/dune
+	path = intel/vmx/dune
 	url = git@github.com:project-dune/dune
 [submodule "mpk/enclosures"]
-	path = mpk/enclosures
+	path = intel/mpk/enclosures
 	url = git@github.com:aghosn/enclosures.git
 [submodule "mpk/faastlane"]
-	path = mpk/faastlane
+	path = intel/mpk/faastlane
 	url = git@github.com:csl-iisc/faastlane.git
 [submodule "mpk/hodor"]
-	path = mpk/hodor
+	path = intel/mpk/hodor
 	url = git@github.com:hedayati/hodor.git
 [submodule "mpk/Donky"]
-	path = mpk/Donky
+	path = intel/mpk/Donky
 	url = git@github.com:IAIK/Donky.git
 [submodule "mpk/Jenny"]
-	path = mpk/Jenny
+	path = intel/mpk/Jenny
 	url = git@github.com:IAIK/Jenny.git
 [submodule "mpk/xom-switch"]
-	path = mpk/xom-switch
+	path = intel/mpk/xom-switch
 	url = git@github.com:intel/xom-switch.git
 [submodule "mpk/CubicleOS"]
-	path = mpk/CubicleOS
+	path = intel/mpk/CubicleOS
 	url = git@github.com:lsds/CubicleOS.git
 [submodule "mpk/galeed"]
-	path = mpk/galeed
+	path = intel/mpk/galeed
 	url = git@github.com:mit-ll/galeed.git
 [submodule "mpk/libmpk"]
-	path = mpk/libmpk
+	path = intel/mpk/libmpk
 	url = git@github.com:sslab-gatech/libmpk.git
 [submodule "mpk/libhermitMPK"]
-	path = mpk/libhermitMPK
+	path = intel/mpk/libhermitMPK
 	url = git@github.com:ssrg-vt/libhermitMPK.git
 [submodule "mpk/MonGuard"]
-	path = mpk/MonGuard
+	path = intel/mpk/MonGuard
 	url = git@github.com:ssrg-vt/MonGuard.git
 [submodule "mpk/iskios"]
-	path = mpk/iskios
+	path = intel/mpk/iskios
 	url = git@github.com:URSec/iskios.git
 [submodule "mpk/pku-pitfalls"]
-	path = mpk/pku-pitfalls
+	path = intel/mpk/pku-pitfalls
 	url = git@github.com:VolSec/pku-pitfalls.git
 [submodule "sgx/incubator-teaclave-sgx-sdk"]
-	path = sgx/incubator-teaclave-sgx-sdk
+	path = intel/sgx/incubator-teaclave-sgx-sdk
 	url = git@github.com:apache/incubator-teaclave-sgx-sdk.git
 [submodule "sgx/TresorSGX"]
-	path = sgx/TresorSGX
+	path = intel/sgx/TresorSGX
 	url = git@github.com:ayeks/TresorSGX
 [submodule "sgx/linux-sgx-mage"]
-	path = sgx/linux-sgx-mage
+	path = intel/sgx/linux-sgx-mage
 	url = git@github.com:donnod/linux-sgx-mage.git
 [submodule "sgx/sgxrop"]
-	path = sgx/sgxrop
+	path = intel/sgx/sgxrop
 	url = git@github.com:IAIK/sgxrop.git
 [submodule "sgx/Tutorial-Password-Manager-with-Intel-SGX"]
-	path = sgx/Tutorial-Password-Manager-with-Intel-SGX
+	path = intel/sgx/Tutorial-Password-Manager-with-Intel-SGX
 	url = git@github.com:IntelSoftware/Tutorial-Password-Manager-with-Intel-SGX.git
 [submodule "sgx/SGX-Shield"]
-	path = sgx/SGX-Shield
+	path = intel/sgx/SGX-Shield
 	url = git@github.com:jaebaek/SGX-Shield.git
 [submodule "sgx/sgxdedup"]
-	path = sgx/sgxdedup
+	path = intel/sgx/sgxdedup
 	url = git@github.com:jingwei87/sgxdedup.git
 [submodule "sgx/0xbadc0de"]
-	path = sgx/0xbadc0de
+	path = intel/sgx/0xbadc0de
 	url = git@github.com:jovanbulck/0xbadc0de.git
 [submodule "sgx/sgx-sample"]
-	path = sgx/sgx-sample
+	path = intel/sgx/sgx-sample
 	url = git@github.com:jovanbulck/sgx-sample.git
 [submodule "sgx/sgx-tutorial-space18"]
-	path = sgx/sgx-tutorial-space18
+	path = intel/sgx/sgx-tutorial-space18
 	url = git@github.com:jovanbulck/sgx-tutorial-space18.git
 [submodule "sgx/sgx-reencrypt"]
-	path = sgx/sgx-reencrypt
+	path = intel/sgx/sgx-reencrypt
 	url = git@github.com:kudelskisecurity/sgx-reencrypt.git
 [submodule "sgx/sgx-lkl"]
-	path = sgx/sgx-lkl
+	path = intel/sgx/sgx-lkl
 	url = git@github.com:lsds/sgx-lkl.git
 [submodule "sgx/Aurora"]
-	path = sgx/Aurora
+	path = intel/sgx/Aurora
 	url = git@github.com:Maxul/Aurora.git
 [submodule "sgx/occlum"]
-	path = sgx/occlum
+	path = intel/sgx/occlum
 	url = git@github.com:occlum/occlum.git
 [submodule "sgx/reproduce-asplos20"]
-	path = sgx/reproduce-asplos20
+	path = intel/sgx/reproduce-asplos20
 	url = git@github.com:occlum/reproduce-asplos20.git
 [submodule "sgx/SgxPectre"]
-	path = sgx/SgxPectre
+	path = intel/sgx/SgxPectre
 	url = git@github.com:OSUSecLab/SgxPectre.git
 [submodule "sgx/SGXCryptoFile"]
-	path = sgx/SGXCryptoFile
+	path = intel/sgx/SGXCryptoFile
 	url = git@github.com:rscosta/SGXCryptoFile.git
 [submodule "sgx/tutorial-dsn18"]
-	path = sgx/tutorial-dsn18
+	path = intel/sgx/tutorial-dsn18
 	url = git@github.com:sancus-tee/tutorial-dsn18.git
 [submodule "sgx/Panoply"]
-	path = sgx/Panoply
+	path = intel/sgx/Panoply
 	url = git@github.com:shwetasshinde24/Panoply.git
 [submodule "sgx/SGXGauge"]
-	path = sgx/SGXGauge
+	path = intel/sgx/SGXGauge
 	url = git@github.com:srsarangi/SGXGauge.git
 [submodule "sgx/sgx-migration"]
-	path = sgx/sgx-migration
+	path = intel/sgx/sgx-migration
 	url = git@github.com:SSGAalto/sgx-migration.git
 [submodule "sgx/sgx101-gitbook"]
-	path = sgx/sgx101-gitbook
+	path = intel/sgx/sgx101-gitbook
 	url = git@github.com:sslab-gatech/sgx101-gitbook.git
 [submodule "sgx/sgx-tutorial-ccs17"]
-	path = sgx/sgx-tutorial-ccs17
+	path = intel/sgx/sgx-tutorial-ccs17
 	url = git@github.com:sslab-gatech/sgx-tutorial-ccs17.git
 [submodule "sgx/bioinfo-meets-sgx"]
-	path = sgx/bioinfo-meets-sgx
+	path = intel/sgx/bioinfo-meets-sgx
 	url = git@github.com:StanPlatinum/bioinfo-meets-sgx.git
 [submodule "sgx/linux-sgx-cat"]
-	path = sgx/linux-sgx-cat
+	path = intel/sgx/linux-sgx-cat
 	url = git@github.com:StanPlatinum/linux-sgx-cat.git
 [submodule "sgx/tsx-in-sgx"]
-	path = sgx/tsx-in-sgx
+	path = intel/sgx/tsx-in-sgx
 	url = git@github.com:StanPlatinum/tsx-in-sgx.git
 [submodule "sgx/sgxbounds"]
-	path = sgx/sgxbounds
+	path = intel/sgx/sgxbounds
 	url = git@github.com:tudinfse/sgxbounds.git
 [submodule "amd64/tsx-tools"]
-	path = amd64/tsx-tools
+	path = intel/tsx/tsx-tools
 	url = git@github.com:andikleen/tsx-tools.git
 [submodule "amd64/TSXGuard"]
-	path = amd64/TSXGuard
+	path = intel/tsx/TSXGuard
 	url = git@github.com:BazookaMusic/TSXGuard.git
 [submodule "amd64/tsx_case_study"]
-	path = amd64/tsx_case_study
+	path = intel/tsx/tsx_case_study
 	url = git@github.com:BlackDiamond1995/tsx_case_study.git
 [submodule "amd64/intel-tsx-sample"]
-	path = amd64/intel-tsx-sample
+	path = intel/tsx/intel-tsx-sample
 	url = git@github.com:blue9057/intel-tsx-sample.git
 [submodule "amd64/uintr-ipc-bench"]
-	path = amd64/uintr-ipc-bench
+	path = intel/uipi/uintr-ipc-bench
 	url = git@github.com:intel/uintr-ipc-bench.git
 [submodule "amd64/tsx"]
-	path = amd64/tsx
+	path = intel/tsx/tsx
 	url = git@github.com:jarulraj/tsx.git
 [submodule "amd64/x86_64-xsave"]
-	path = amd64/x86_64-xsave
+	path = x86_64-xsave
 	url = git@github.com:lemonrock/x86_64-xsave.git
 [submodule "amd64/libvmi"]
-	path = amd64/libvmi
+	path = libvmi
 	url = git@github.com:libvmi/libvmi.git
 [submodule "amd64/HYBRID"]
-	path = amd64/HYBRID
+	path = intel/lbr/HYBRID
 	url = git@github.com:StanPlatinum/HYBRID.git
 [submodule "amd64/VMI-as-a-Service"]
-	path = amd64/VMI-as-a-Service
+	path = intel/vmx/VMI-as-a-Service
 	url = git@github.com:StanPlatinum/VMI-as-a-Service.git
 [submodule "amd64/Intel-TSX-test-suite"]
-	path = amd64/Intel-TSX-test-suite
+	path = intel/tsx/Intel-TSX-test-suite
 	url = git@github.com:vesuppi/Intel-TSX-test-suite.git
 [submodule "amd64/xsave_test"]
-	path = amd64/xsave_test
+	path = xsave_test
 	url = git@github.com:yyu168/xsave_test.git
 [submodule "intel-pt/simple-pt"]
-	path = intel-pt/simple-pt
+	path = intel/pt/simple-pt
 	url = git@github.com:andikleen/simple-pt.git
 [submodule "intel-pt/ARCUS"]
-	path = intel-pt/ARCUS
+	path = intel/pt/ARCUS
 	url = git@github.com:carter-yagemann/ARCUS.git
 [submodule "intel-pt/ptfuzzer"]
-	path = intel-pt/ptfuzzer
+	path = intel/pt/ptfuzzer
 	url = git@github.com:hunter-ht-2018/ptfuzzer.git
 [submodule "intel-pt/libipt"]
-	path = intel-pt/libipt
+	path = intel/pt/libipt
 	url = git@github.com:intel/libipt.git
 [submodule "intel-pt/libxdc"]
-	path = intel-pt/libxdc
+	path = intel/pt/libxdc
 	url = git@github.com:nyx-fuzz/libxdc.git
 [submodule "intel-pt/kAFL"]
-	path = intel-pt/kAFL
+	path = intel/pt/kAFL
 	url = git@github.com:RUB-SysSec/kAFL.git
 [submodule "intel-pt/redqueen"]
-	path = intel-pt/redqueen
+	path = intel/pt/redqueen
 	url = git@github.com:RUB-SysSec/redqueen.git
 [submodule "intel-pt/Honeybee"]
-	path = intel-pt/Honeybee
+	path = intel/pt/Honeybee
 	url = git@github.com:trailofbits/Honeybee.git
 [submodule "sev/AMDSEV"]
-	path = sev/AMDSEV
+	path = amd/sev/AMDSEV
 	url = git@github.com:AMDESE/AMDSEV
 [submodule "sev/linux"]
-	path = sev/linux
+	path = amd/sev/linux
 	url = git@github.com:AMDESE/linux.git
 [submodule "sev/sev-guest"]
-	path = sev/sev-guest
+	path = amd/sev/sev-guest
 	url = git@github.com:AMDESE/sev-guest.git
 [submodule "sev/sev-tool"]
-	path = sev/sev-tool
+	path = amd/sev/sev-tool
 	url = git@github.com:AMDESE/sev-tool.git
 [submodule "sev/libkrun"]
-	path = sev/libkrun
+	path = amd/sev/libkrun
 	url = git@github.com:containers/libkrun.git
 [submodule "sev/enarx-keepldr"]
-	path = sev/enarx-keepldr
+	path = amd/sev/enarx-keepldr
 	url = git@github.com:enarx/enarx-keepldr.git
 [submodule "sev/sevctl"]
-	path = sev/sevctl
+	path = amd/sev/sevctl
 	url = git@github.com:enarx/sevctl.git
 [submodule "sev/sev-iocuddle"]
-	path = sev/sev-iocuddle
+	path = amd/sev/sev-iocuddle
 	url = git@github.com:enarx/sev-iocuddle.git
 [submodule "sev/snp"]
-	path = sev/snp
+	path = amd/sev/snp
 	url = git@github.com:enarx/snp.git
 [submodule "sev/severed-framework"]
-	path = sev/severed-framework
+	path = amd/sev/severed-framework
 	url = git@github.com:Fraunhofer-AISEC/severed-framework.git
 [submodule "sev/sev"]
-	path = sev/sev
+	path = amd/sev/sev
 	url = git@github.com:frozencemetery/sev.git
 [submodule "sev/sev-snp-measure"]
-	path = sev/sev-snp-measure
+	path = amd/sev/sev-snp-measure
 	url = git@github.com:IBM/sev-snp-measure.git
 [submodule "sev/vSGX"]
-	path = sev/vSGX
+	path = amd/sev/vSGX
 	url = git@github.com:OSUSecLab/vSGX.git
 [submodule "sev/amd-sev-migration-attack"]
-	path = sev/amd-sev-migration-attack
+	path = amd/sev/amd-sev-migration-attack
 	url = git@github.com:PSPReverse/amd-sev-migration-attack.git
 [submodule "sev/amd-sp-glitch"]
-	path = sev/amd-sp-glitch
+	path = amd/sev/amd-sp-glitch
 	url = git@github.com:PSPReverse/amd-sp-glitch.git
 [submodule "sev/Insecure-Until-Proven-Updated-Analyzing-AMD-SEV-s-Remote-Attestation"]
-	path = sev/Insecure-Until-Proven-Updated-Analyzing-AMD-SEV-s-Remote-Attestation
+	path = amd/sev/Insecure-Until-Proven-Updated-Analyzing-AMD-SEV-s-Remote-Attestation
 	url = git@github.com:PSPReverse/Insecure-Until-Proven-Updated-Analyzing-AMD-SEV-s-Remote-Attestation.git
 [submodule "sev/KVM-Unit-Tests"]
-	path = sev/KVM-Unit-Tests
+	path = amd/sev/KVM-Unit-Tests
 	url = git@github.com:pvpk1994/KVM-Unit-Tests.git
 [submodule "sev/gcp_cc_sev_demo"]
-	path = sev/gcp_cc_sev_demo
+	path = amd/sev/gcp_cc_sev_demo
 	url = git@github.com:salrashid123/gcp_cc_sev_demo.git
 [submodule "sev/sev-ciphertext-side-channels"]
-	path = sev/sev-ciphertext-side-channels
+	path = amd/sev/sev-ciphertext-side-channels
 	url = git@github.com:UzL-ITS/sev-ciphertext-side-channels.git
-[submodule "sgx101-gitbook"]
-	path = sgx101-gitbook
-	url = https://github.com/sslab-gatech/sgx101-gitbook.git
-[submodule "sgx-lkl"]
-	path = sgx-lkl
-	url = https://github.com/lsds/sgx-lkl.git
-[submodule "sgx-reencrypt"]
-	path = sgx-reencrypt
-	url = https://github.com/kudelskisecurity/sgx-reencrypt.git
-[submodule "bioinfo-meets-sgx"]
-	path = bioinfo-meets-sgx
-	url = https://github.com/StanPlatinum/bioinfo-meets-sgx.git
-[submodule "incubator-teaclave-sgx-sdk"]
-	path = incubator-teaclave-sgx-sdk
-	url = https://github.com/apache/incubator-teaclave-sgx-sdk.git
-[submodule "linux-sgx"]
-	path = linux-sgx
-	url = https://github.com/intel/linux-sgx.git
-[submodule "linux-sgx-cat"]
-	path = linux-sgx-cat
-	url = https://github.com/StanPlatinum/linux-sgx-cat.git
-[submodule "occlum"]
-	path = occlum
-	url = https://github.com/occlum/occlum.git
-[submodule "opensgx"]
-	path = opensgx
-	url = git@github.com:sslab-gatech/opensgx.git
-[submodule "reproduce-asplos20"]
-	path = reproduce-asplos20
-	url = https://github.com/occlum/reproduce-asplos20.git
-[submodule "sgxbounds"]
-	path = sgxbounds
-	url = https://github.com/tudinfse/sgxbounds.git
-[submodule "SGXCryptoFile"]
-	path = SGXCryptoFile
-	url = https://github.com/rscosta/SGXCryptoFile.git
-[submodule "sgxdedup"]
-	path = sgxdedup
-	url = https://github.com/jingwei87/sgxdedup.git
-[submodule "SGXGauge"]
-	path = SGXGauge
-	url = https://github.com/srsarangi/SGXGauge.git
-[submodule "sgxjail"]
-	path = sgxjail
-	url = git@github.com:IAIK/sgxjail.git
-[submodule "sgxlock"]
-	path = sgxlock
-	url = git@github.com:blocksecteam/sgxlock.git
-[submodule "sgx-migration"]
-	path = sgx-migration
-	url = https://github.com/SSGAalto/sgx-migration.git
-[submodule "SgxPectre"]
-	path = SgxPectre
-	url = git@github.com:OSUSecLab/SgxPectre.git
-[submodule "sgxrop"]
-	path = sgxrop
-	url = https://github.com/IAIK/sgxrop.git
-[submodule "sgx-sample"]
-	path = sgx-sample
-	url = https://github.com/jovanbulck/sgx-sample.git
-[submodule "SGX-Shield"]
-	path = SGX-Shield
-	url = https://github.com/jaebaek/SGX-Shield.git
-[submodule "sgx-tutorial-ccs17"]
-	path = sgx-tutorial-ccs17
-	url = https://github.com/sslab-gatech/sgx-tutorial-ccs17.git
-[submodule "sgx-tutorial-space18"]
-	path = sgx-tutorial-space18
-	url = https://github.com/jovanbulck/sgx-tutorial-space18.git
-[submodule "sgx-wallet"]
-	path = sgx-wallet
-	url = https://github.com/asonnino/sgx-wallet.git
-[submodule "tsx-in-sgx"]
-	path = tsx-in-sgx
-	url = https://github.com/StanPlatinum/tsx-in-sgx.git
-[submodule "Tutorial-Password-Manager-with-Intel-SGX"]
-	path = Tutorial-Password-Manager-with-Intel-SGX
-	url = https://github.com/IntelSoftware/Tutorial-Password-Manager-with-Intel-SGX.git
-[submodule "Aurora"]
-	path = Aurora
-	url = https://github.com/Maxul/Aurora.git
-[submodule "Panoply"]
-	path = Panoply
-	url = https://github.com/shwetasshinde24/Panoply.git
-[submodule "linux-sgx-mage"]
-	path = linux-sgx-mage
-	url = https://github.com/donnod/linux-sgx-mage.git
-[submodule "Awesome-SGX-Open-Source"]
-	path = Awesome-SGX-Open-Source
-	url = https://github.com/Maxul/Awesome-SGX-Open-Source.git
-[submodule "linux-sgx-driver"]
-	path = linux-sgx-driver
-	url = https://github.com/intel/linux-sgx-driver.git
-[submodule "TresorSGX"]
-	path = TresorSGX
-	url = https://github.com/ayeks/TresorSGX
-[submodule "atc22-ae"]
-	path = atc22-ae
-	url = https://github.com/HyperEnclave/atc22-ae.git
-[submodule "0xbadc0de"]
-	path = 0xbadc0de
-	url = https://github.com/jovanbulck/0xbadc0de.git
-[submodule "tutorial-dsn18"]
-	path = tutorial-dsn18
-	url = https://github.com/sancus-tee/tutorial-dsn18.git
-[submodule "uranus"]
-	path = uranus
+[submodule "sgx/uranus"]
+	path = intel/sgx/uranus
 	url = https://github.com/hku-systems/uranus.git
-[submodule "PopSGX"]
-	path = PopSGX
-	url = https://github.com/Zildj1an/PopSGX.git
-[submodule "DEBE"]
-	path = DEBE
+[submodule "sgx/DEBE"]
+	path = intel/sgx/DEBE
 	url = https://github.com/yzr95924/DEBE.git
-[submodule "mnist-in-enclave"]
-	path = mnist-in-enclave
+[submodule "sgx/mnist-in-enclave"]
+	path = intel/sgx/mnist-in-enclave
 	url = https://github.com/StanPlatinum/mnist-in-enclave.git
-[submodule "stealthdb"]
-	path = cryptograph/stealthdb
+[submodule "sgx/stealthdb"]
+	path = intel/sgx/stealthdb
 	url = https://github.com/cryptograph/stealthdb
+[submodule "mpk/Dissertation-Public"]
+	path = intel/mpk/Dissertation-Public
+	url = git@github.com:ChristopherHammond13/Dissertation-Public.git
+[submodule "mpk/MOAT-Open"]
+	path = intel/mpk/MOAT-Open
+	url = https://github.com/jwnhy/MOAT-Open.git
+[submodule "mpk/sMVX"]
+	path = intel/mpk/sMVX
+	url = https://github.com/ssrg-vt/sMVX.git
+[submodule "mpk/secure-rewind-and-discard"]
+	path = intel/mpk/secure-rewind-and-discard
+	url = https://github.com/EricssonResearch/secure-rewind-and-discard.git
+[submodule "mpk/sdradrustffi"]
+	path = intel/mpk/sdradrustffi
+	url = https://github.com/EricssonResearch/sdradrustffi.git
+[submodule "mpk/lightning"]
+	path = intel/mpk/lightning
+	url = https://github.com/danyangz/lightning.git
+[submodule "mpk/vip"]
+	path = intel/mpk/vip
+	url = git@github.com:cosmoss-jigu/vip.git
+[submodule "mpk/TENET"]
+	path = intel/mpk/TENET
+	url = https://github.com/cosmoss-jigu/TENET.git
+[submodule "mpk/fastlane"]
+	path = intel/mpk/fastlane
+	url = https://github.com/fastlane/fastlane.git
+[submodule "mpk/sgxjail"]
+	path = intel/mpk/sgxjail
+	url = git@github.com:IAIK/sgxjail.git
+[submodule "mpk/PKUWA"]
+	path = intel/mpk/PKUWA
+	url = git@github.com:PKU-ASAL/PKUWA.git
+[submodule "mpk/trust23-metsafe24"]
+	path = intel/mpk/trust23-metsafe24
+	url = git@github.com:seccompgeek/trust23-metsafe24.git
+[submodule "mpk/mpk"]
+	path = intel/mpk/mpk
+	url = git@github.com:CharlyCst/mpk.git
+[submodule "mpk/Smart-Contract-Protection-Method"]
+	path = intel/mpk/Smart-Contract-Protection-Method
+	url = git@github.com:MrCookieeeee/Smart-Contract-Protection-Method.git
+[submodule "mpk/MPK_research"]
+	path = intel/mpk/MPK_research
+	url = git@github.com:CharlyCst/MPK_research.git
+[submodule "mpk/CoMpk"]
+	path = intel/mpk/CoMpk
+	url = git@github.com:arulthileeban/CoMpk.git
+[submodule "mpk/Toast"]
+	path = intel/mpk/Toast
+	url = https://github.com/TUM-DSE/Toast
+[submodule "mpk/ReCFA"]
+	path = intel/mpk/ReCFA
+	url = https://github.com/suncongxd/ReCFA.git
+[submodule "mpk/nodrop"]
+	path = intel/mpk/nodrop
+	url = https://github.com/nodropforsecurity/nodrop.git
+[submodule "mpk/asplos22-ae"]
+	path = intel/mpk/asplos22-ae
+	url = https://github.com/project-flexos/asplos22-ae.git
+[submodule "mpk/BULKHEAD"]
+	path = intel/mpk/BULKHEAD
+	url = https://github.com/gyg128/BULKHEAD.git
+[submodule "mpk/HAKC"]
+	path = intel/mpk/HAKC
+	url = https://github.com/mit-ll/HAKC.git
+[submodule "mpk/ConfLLVM"]
+	path = intel/mpk/ConfLLVM
+	url = https://github.com/TrustedCloud/ConfLLVM.git
+[submodule "mpk/endokernel-paper-ver"]
+	path = intel/mpk/endokernel-paper-ver
+	url = https://github.com/endokernel/endokernel-paper-ver.git
+[submodule "mpk/Unishyper"]
+	path = intel/mpk/Unishyper
+	url = https://github.com/hky1999/Unishyper.git
+[submodule "mpk/ctFS"]
+	path = intel/mpk/ctFS
+	url = https://github.com/robinlee09201/ctFS
+[submodule "mpk/islab"]
+	path = intel/mpk/islab
+	url = https://github.com/tum-itsec/islab.git
+[submodule "mpk/Chiron"]
+	path = intel/mpk/Chiron
+	url = git@github.com:tjulym/Chiron.git
+[submodule "mpk/uswitch"]
+	path = intel/mpk/uswitch
+	url = https://github.com/rssys/uswitch.git
+[submodule "mpk/ia2-provsan"]
+	path = intel/mpk/ia2-provsan
+	url = https://github.com/securesystemslab/ia2-provsan.git
+[submodule "mpk/mapguard"]
+	path = intel/mpk/mapguard
+	url = https://github.com/struct/mapguard.git
+[submodule "amd/sev/sev-snp-attestation"]
+	path = amd/sev/sev-snp-attestation
+	url = https://github.com/dimstav23/sev-snp-attestation.git
+[submodule "amd/sev/mushroom"]
+	path = amd/sev/mushroom
+	url = https://github.com/Freax13/mushroom.git
+[submodule "amd/sev/verismo"]
+	path = amd/sev/verismo
+	url = https://github.com/microsoft/verismo.git
+[submodule "amd/sev/Veil"]
+	path = amd/sev/Veil
+	url = https://github.com/adilahmad17/Veil.git
+[submodule "amd/sev/heckler"]
+	path = amd/sev/heckler
+	url = https://github.com/ahoi-attacks/heckler.git
+[submodule "amd/sev/WeSee"]
+	path = amd/sev/WeSee
+	url = https://github.com/ahoi-attacks/WeSee.git
+[submodule "amd/sev/linux-svsm"]
+	path = amd/sev/linux-svsm
+	url = https://github.com/AMDESE/linux-svsm.git
+[submodule "amd/sev/svsm"]
+	path = amd/sev/svsm
+	url = https://github.com/coconut-svsm/svsm.git
+[submodule "amd/sev/00seven"]
+	path = amd/sev/00seven
+	url = https://github.com/sev-vmi/00seven.git
+[submodule "amd/sev/snp-svsm-efi-secret"]
+	path = amd/sev/snp-svsm-efi-secret
+	url = https://github.com/stefano-garzarella/snp-svsm-efi-secret.git
+[submodule "amd/sev/spire-amd-sev-snp-node-attestor"]
+	path = amd/sev/spire-amd-sev-snp-node-attestor
+	url = https://github.com/ufcg-lsd/spire-amd-sev-snp-node-attestor.git
+[submodule "amd/sev/sev-step"]
+	path = amd/sev/sev-step
+	url = https://github.com/sev-step/sev-step.git
+[submodule "amd/sev/cachepc"]
+	path = amd/sev/cachepc
+	url = https://github.com/sinitax/cachepc.git
+[submodule "amd/sev/PWRLEAK"]
+	path = amd/sev/PWRLEAK
+	url = https://github.com/OSUSecLab/PWRLEAK.git
+[submodule "amd/sev/CacheWarp"]
+	path = amd/sev/CacheWarp
+	url = https://github.com/cispa/CacheWarp.git
+[submodule "amd/sev/severifast"]
+	path = amd/sev/severifast
+	url = https://github.com/SEVeriFast/severifast.git
+[submodule "amd/sev/honeycomb-osdi23-ae"]
+	path = amd/sev/honeycomb-osdi23-ae
+	url = https://github.com/Jiacheng/honeycomb-osdi23-ae.git
+[submodule "amd/sev/sev-guest_device_mock"]
+	path = amd/sev/sev-guest_device_mock
+	url = https://github.com/Daviiap/sev-guest_device_mock.git
+[submodule "amd/sev/maat"]
+	path = amd/sev/maat
+	url = https://github.com/Invary-Runtime-Integrity/maat.git
+[submodule "amd/sev/SVSM-vTPM-artifacts"]
+	path = amd/sev/SVSM-vTPM-artifacts
+	url = https://github.com/svsm-vtpm/SVSM-vTPM-artifacts.git
+[submodule "amd/sev/snp-svsm-vtpm"]
+	path = amd/sev/snp-svsm-vtpm
+	url = https://github.com/stefano-garzarella/snp-svsm-vtpm.git
+[submodule "intel/mpk/linux-pks"]
+	path = intel/mpk/linux-pks
+	url = https://github.com/Icegrave0391/linux-pks.git
+[submodule "intel/sgx/keystore"]
+	path = intel/sgx/keystore
+	url = https://github.com/cloud-key-store/keystore.git
+[submodule "intel/sgx/safekeeper-server"]
+	path = intel/sgx/safekeeper-server
+	url = https://github.com/SafeKeeper/safekeeper-server.git
+[submodule "intel/sgx/sgxfun"]
+	path = intel/sgx/sgxfun
+	url = https://github.com/kudelskisecurity/sgxfun.git
+[submodule "intel/sgx/rust-sgx"]
+	path = intel/sgx/rust-sgx
+	url = https://github.com/fortanix/rust-sgx.git
+[submodule "intel/sgx/sgx-ra-sample"]
+	path = intel/sgx/sgx-ra-sample
+	url = https://github.com/intel/sgx-ra-sample.git
+[submodule "intel/sgx/sgx-log"]
+	path = intel/sgx/sgx-log
+	url = https://github.com/utds3lab/sgx-log.git
+[submodule "intel/sgx/sgx-fs"]
+	path = intel/sgx/sgx-fs
+	url = https://github.com/dburihabwa/sgx-fs.git
+[submodule "intel/sgx/sgx-abi-data"]
+	path = intel/sgx/sgx-abi-data
+	url = https://github.com/jovanbulck/sgx-abi-data.git
+[submodule "intel/sgx/gramine"]
+	path = intel/sgx/gramine
+	url = https://github.com/gramineproject/gramine.git
+[submodule "intel/sgx/wasm-micro-runtime"]
+	path = intel/sgx/wasm-micro-runtime
+	url = https://github.com/bytecodealliance/wasm-micro-runtime.git
+[submodule "intel/sgx/occlum-vs-graphene"]
+	path = intel/sgx/occlum-vs-graphene
+	url = https://github.com/StanPlatinum/occlum-vs-graphene.git
+[submodule "intel/sgx/SGX-protected-fs-demo"]
+	path = intel/sgx/SGX-protected-fs-demo
+	url = https://github.com/light1021/SGX-protected-fs-demo.git
+[submodule "intel/sgx/SGX-SingleStep"]
+	path = intel/sgx/SGX-SingleStep
+	url = https://github.com/parsamorsal/SGX-SingleStep.git
+[submodule "intel/sgx/Intel-SGX---First-Steps"]
+	path = intel/sgx/Intel-SGX---First-Steps
+	url = https://github.com/Zermy/Intel-SGX---First-Steps.git
+[submodule "intel/sgx/t-sgx"]
+	path = intel/sgx/t-sgx
+	url = https://github.com/sslab-gatech/t-sgx.git
+[submodule "intel/sgx/zlib-sgx"]
+	path = intel/sgx/zlib-sgx
+	url = https://github.com/ffosilva/zlib-sgx.git
+[submodule "intel/sgx/stress-sgx"]
+	path = intel/sgx/stress-sgx
+	url = https://github.com/sebva/stress-sgx.git
+[submodule "intel/sgx/idash-sgx-nn"]
+	path = intel/sgx/idash-sgx-nn
+	url = https://github.com/ndokmai/idash-sgx-nn.git
+[submodule "intel/sgx/intel-sgx-deep-learning"]
+	path = intel/sgx/intel-sgx-deep-learning
+	url = https://github.com/landoxy/intel-sgx-deep-learning.git
+[submodule "intel/sgx/sgx-step"]
+	path = intel/sgx/sgx-step
+	url = https://github.com/jovanbulck/sgx-step.git
+[submodule "intel/sgx/nemesis"]
+	path = intel/sgx/nemesis
+	url = https://github.com/jovanbulck/nemesis.git
+[submodule "intel/sgx/EnclaveFuzz"]
+	path = intel/sgx/EnclaveFuzz
+	url = https://github.com/LeoneChen/EnclaveFuzz.git
+[submodule "intel/sgx/gotee"]
+	path = intel/sgx/gotee
+	url = https://github.com/epfl-dcsl/gotee.git
+[submodule "intel/sgx/spectre-attack-sgx"]
+	path = intel/sgx/spectre-attack-sgx
+	url = https://github.com/lsds/spectre-attack-sgx.git
+[submodule "intel/sgx/File-Encryption-Using-Intel-SGX"]
+	path = intel/sgx/File-Encryption-Using-Intel-SGX
+	url = https://github.com/siddharthsyal/File-Encryption-Using-Intel-SGX.git
+[submodule "intel/sgx/MetaDedup"]
+	path = intel/sgx/MetaDedup
+	url = https://github.com/tinoryj/MetaDedup.git
+[submodule "intel/sgx/SGXDedup"]
+	path = intel/sgx/SGXDedup
+	url = https://github.com/tinoryj/SGXDedup.git
+[submodule "intel/sgx/REED"]
+	path = intel/sgx/REED
+	url = https://github.com/tinoryj/REED.git
+[submodule "intel/sgx/SGX_Exploration"]
+	path = intel/sgx/SGX_Exploration
+	url = https://github.com/ThunderWiring/SGX_Exploration.git
+[submodule "intel/sgx/ShieldStore"]
+	path = intel/sgx/ShieldStore
+	url = https://github.com/cocoppang/ShieldStore.git
+[submodule "intel/sgx/sgx-pte"]
+	path = intel/sgx/sgx-pte
+	url = https://github.com/jovanbulck/sgx-pte.git
+[submodule "intel/sgx/vulcan"]
+	path = intel/sgx/vulcan
+	url = https://github.com/sancus-tee/vulcan.git
+[submodule "intel/sgx/systex2024"]
+	path = intel/sgx/systex2024
+	url = https://github.com/chenchanglew/systex2024.git
+[submodule "intel/sgx/SGXCrypter"]
+	path = intel/sgx/SGXCrypter
+	url = https://github.com/momalab/SGXCrypter.git
+[submodule "intel/sgx/SGX-hardware"]
+	path = intel/sgx/SGX-hardware
+	url = https://github.com/ayeks/SGX-hardware.git
+[submodule "intel/sgx/DMA"]
+	path = intel/sgx/DMA
+	url = https://github.com/Seix61/DMA.git
