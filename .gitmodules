@@ -1,0 +1,291 @@
+[submodule "awesome-vmx/dune"]
+	path = vmx/dune
+	url = https://github.com/project-dune/dune.git
+[submodule "awesome-vmx/vmi-unpack"]
+	path = vmx/vmi-unpack
+	url = https://github.com/carter-yagemann/vmi-unpack.git
+[submodule "awesome-vmx/Hypervisor-From-Scratch"]
+	path = vmx/Hypervisor-From-Scratch
+	url = https://github.com/SinaKarvandi/Hypervisor-From-Scratch.git
+[submodule "awesome-vmx/libvmi"]
+	path = vmx/libvmi
+	url = https://github.com/libvmi/libvmi.git
+[submodule "awesome-vmx/libmicrovmi"]
+	path = vmx/libmicrovmi
+	url = https://github.com/Wenzel/libmicrovmi.git
+[submodule "awesome-vmx/vmsh"]
+	path = vmx/vmsh
+	url = https://github.com/Mic92/vmsh.git
+[submodule "awesome-mpk/mpkalloc"]
+	path = mpk/mpkalloc
+	url = https://github.com/BUseclab/mpkalloc.git
+[submodule "awesome-mpk/The-Cerberus-Project"]
+	path = mpk/The-Cerberus-Project
+	url = https://github.com/ku-leuven-msec/The-Cerberus-Project.git
+[submodule "awesome-mpk/PKRU-Safe"]
+	path = mpk/PKRU-Safe
+	url = https://github.com/securesystemslab/PKRU-Safe.git
+[submodule "awesome-mpk/memsentry"]
+	path = mpk/memsentry
+	url = https://github.com/vusec/memsentry.git
+[submodule "awesome-sgx/sgx-wallet"]
+	path = sgx/sgx-wallet
+	url = https://github.com/asonnino/sgx-wallet.git
+[submodule "awesome-sgx/atc22-ae"]
+	path = sgx/atc22-ae
+	url = https://github.com/HyperEnclave/atc22-ae.git
+[submodule "awesome-sgx/linux-sgx-driver"]
+	path = sgx/linux-sgx-driver
+	url = https://github.com/intel/linux-sgx-driver.git
+[submodule "awesome-sgx/Awesome-SGX-Open-Source"]
+	path = sgx/Awesome-SGX-Open-Source
+	url = https://github.com/Maxul/Awesome-SGX-Open-Source.git
+[submodule "awesome-sgx/linux-sgx"]
+	path = sgx/linux-sgx
+	url = https://github.com/intel/linux-sgx.git
+[submodule "sgx/opensgx"]
+	path = sgx/opensgx
+	url = git@github.com:sslab-gatech/opensgx.git
+[submodule "sgx/sgxjail"]
+	path = sgx/sgxjail
+	url = git@github.com:IAIK/sgxjail.git
+[submodule "vmx/dune"]
+	path = vmx/dune
+	url = git@github.com:project-dune/dune
+[submodule "mpk/enclosures"]
+	path = mpk/enclosures
+	url = git@github.com:aghosn/enclosures.git
+[submodule "mpk/faastlane"]
+	path = mpk/faastlane
+	url = git@github.com:csl-iisc/faastlane.git
+[submodule "mpk/hodor"]
+	path = mpk/hodor
+	url = git@github.com:hedayati/hodor.git
+[submodule "mpk/Donky"]
+	path = mpk/Donky
+	url = git@github.com:IAIK/Donky.git
+[submodule "mpk/Jenny"]
+	path = mpk/Jenny
+	url = git@github.com:IAIK/Jenny.git
+[submodule "mpk/xom-switch"]
+	path = mpk/xom-switch
+	url = git@github.com:intel/xom-switch.git
+[submodule "mpk/CubicleOS"]
+	path = mpk/CubicleOS
+	url = git@github.com:lsds/CubicleOS.git
+[submodule "mpk/galeed"]
+	path = mpk/galeed
+	url = git@github.com:mit-ll/galeed.git
+[submodule "mpk/libmpk"]
+	path = mpk/libmpk
+	url = git@github.com:sslab-gatech/libmpk.git
+[submodule "mpk/libhermitMPK"]
+	path = mpk/libhermitMPK
+	url = git@github.com:ssrg-vt/libhermitMPK.git
+[submodule "mpk/MonGuard"]
+	path = mpk/MonGuard
+	url = git@github.com:ssrg-vt/MonGuard.git
+[submodule "mpk/iskios"]
+	path = mpk/iskios
+	url = git@github.com:URSec/iskios.git
+[submodule "mpk/pku-pitfalls"]
+	path = mpk/pku-pitfalls
+	url = git@github.com:VolSec/pku-pitfalls.git
+[submodule "sgx/incubator-teaclave-sgx-sdk"]
+	path = sgx/incubator-teaclave-sgx-sdk
+	url = git@github.com:apache/incubator-teaclave-sgx-sdk.git
+[submodule "sgx/TresorSGX"]
+	path = sgx/TresorSGX
+	url = git@github.com:ayeks/TresorSGX
+[submodule "sgx/linux-sgx-mage"]
+	path = sgx/linux-sgx-mage
+	url = git@github.com:donnod/linux-sgx-mage.git
+[submodule "sgx/sgxrop"]
+	path = sgx/sgxrop
+	url = git@github.com:IAIK/sgxrop.git
+[submodule "sgx/Tutorial-Password-Manager-with-Intel-SGX"]
+	path = sgx/Tutorial-Password-Manager-with-Intel-SGX
+	url = git@github.com:IntelSoftware/Tutorial-Password-Manager-with-Intel-SGX.git
+[submodule "sgx/SGX-Shield"]
+	path = sgx/SGX-Shield
+	url = git@github.com:jaebaek/SGX-Shield.git
+[submodule "sgx/sgxdedup"]
+	path = sgx/sgxdedup
+	url = git@github.com:jingwei87/sgxdedup.git
+[submodule "sgx/0xbadc0de"]
+	path = sgx/0xbadc0de
+	url = git@github.com:jovanbulck/0xbadc0de.git
+[submodule "sgx/sgx-sample"]
+	path = sgx/sgx-sample
+	url = git@github.com:jovanbulck/sgx-sample.git
+[submodule "sgx/sgx-tutorial-space18"]
+	path = sgx/sgx-tutorial-space18
+	url = git@github.com:jovanbulck/sgx-tutorial-space18.git
+[submodule "sgx/sgx-reencrypt"]
+	path = sgx/sgx-reencrypt
+	url = git@github.com:kudelskisecurity/sgx-reencrypt.git
+[submodule "sgx/sgx-lkl"]
+	path = sgx/sgx-lkl
+	url = git@github.com:lsds/sgx-lkl.git
+[submodule "sgx/Aurora"]
+	path = sgx/Aurora
+	url = git@github.com:Maxul/Aurora.git
+[submodule "sgx/occlum"]
+	path = sgx/occlum
+	url = git@github.com:occlum/occlum.git
+[submodule "sgx/reproduce-asplos20"]
+	path = sgx/reproduce-asplos20
+	url = git@github.com:occlum/reproduce-asplos20.git
+[submodule "sgx/SgxPectre"]
+	path = sgx/SgxPectre
+	url = git@github.com:OSUSecLab/SgxPectre.git
+[submodule "sgx/SGXCryptoFile"]
+	path = sgx/SGXCryptoFile
+	url = git@github.com:rscosta/SGXCryptoFile.git
+[submodule "sgx/tutorial-dsn18"]
+	path = sgx/tutorial-dsn18
+	url = git@github.com:sancus-tee/tutorial-dsn18.git
+[submodule "sgx/Panoply"]
+	path = sgx/Panoply
+	url = git@github.com:shwetasshinde24/Panoply.git
+[submodule "sgx/SGXGauge"]
+	path = sgx/SGXGauge
+	url = git@github.com:srsarangi/SGXGauge.git
+[submodule "sgx/sgx-migration"]
+	path = sgx/sgx-migration
+	url = git@github.com:SSGAalto/sgx-migration.git
+[submodule "sgx/sgx101-gitbook"]
+	path = sgx/sgx101-gitbook
+	url = git@github.com:sslab-gatech/sgx101-gitbook.git
+[submodule "sgx/sgx-tutorial-ccs17"]
+	path = sgx/sgx-tutorial-ccs17
+	url = git@github.com:sslab-gatech/sgx-tutorial-ccs17.git
+[submodule "sgx/bioinfo-meets-sgx"]
+	path = sgx/bioinfo-meets-sgx
+	url = git@github.com:StanPlatinum/bioinfo-meets-sgx.git
+[submodule "sgx/linux-sgx-cat"]
+	path = sgx/linux-sgx-cat
+	url = git@github.com:StanPlatinum/linux-sgx-cat.git
+[submodule "sgx/tsx-in-sgx"]
+	path = sgx/tsx-in-sgx
+	url = git@github.com:StanPlatinum/tsx-in-sgx.git
+[submodule "sgx/sgxbounds"]
+	path = sgx/sgxbounds
+	url = git@github.com:tudinfse/sgxbounds.git
+[submodule "amd64/tsx-tools"]
+	path = amd64/tsx-tools
+	url = git@github.com:andikleen/tsx-tools.git
+[submodule "amd64/TSXGuard"]
+	path = amd64/TSXGuard
+	url = git@github.com:BazookaMusic/TSXGuard.git
+[submodule "amd64/tsx_case_study"]
+	path = amd64/tsx_case_study
+	url = git@github.com:BlackDiamond1995/tsx_case_study.git
+[submodule "amd64/intel-tsx-sample"]
+	path = amd64/intel-tsx-sample
+	url = git@github.com:blue9057/intel-tsx-sample.git
+[submodule "amd64/uintr-ipc-bench"]
+	path = amd64/uintr-ipc-bench
+	url = git@github.com:intel/uintr-ipc-bench.git
+[submodule "amd64/tsx"]
+	path = amd64/tsx
+	url = git@github.com:jarulraj/tsx.git
+[submodule "amd64/x86_64-xsave"]
+	path = amd64/x86_64-xsave
+	url = git@github.com:lemonrock/x86_64-xsave.git
+[submodule "amd64/libvmi"]
+	path = amd64/libvmi
+	url = git@github.com:libvmi/libvmi.git
+[submodule "amd64/HYBRID"]
+	path = amd64/HYBRID
+	url = git@github.com:StanPlatinum/HYBRID.git
+[submodule "amd64/VMI-as-a-Service"]
+	path = amd64/VMI-as-a-Service
+	url = git@github.com:StanPlatinum/VMI-as-a-Service.git
+[submodule "amd64/Intel-TSX-test-suite"]
+	path = amd64/Intel-TSX-test-suite
+	url = git@github.com:vesuppi/Intel-TSX-test-suite.git
+[submodule "amd64/xsave_test"]
+	path = amd64/xsave_test
+	url = git@github.com:yyu168/xsave_test.git
+[submodule "intel-pt/simple-pt"]
+	path = intel-pt/simple-pt
+	url = git@github.com:andikleen/simple-pt.git
+[submodule "intel-pt/ARCUS"]
+	path = intel-pt/ARCUS
+	url = git@github.com:carter-yagemann/ARCUS.git
+[submodule "intel-pt/ptfuzzer"]
+	path = intel-pt/ptfuzzer
+	url = git@github.com:hunter-ht-2018/ptfuzzer.git
+[submodule "intel-pt/libipt"]
+	path = intel-pt/libipt
+	url = git@github.com:intel/libipt.git
+[submodule "intel-pt/libxdc"]
+	path = intel-pt/libxdc
+	url = git@github.com:nyx-fuzz/libxdc.git
+[submodule "intel-pt/kAFL"]
+	path = intel-pt/kAFL
+	url = git@github.com:RUB-SysSec/kAFL.git
+[submodule "intel-pt/redqueen"]
+	path = intel-pt/redqueen
+	url = git@github.com:RUB-SysSec/redqueen.git
+[submodule "intel-pt/Honeybee"]
+	path = intel-pt/Honeybee
+	url = git@github.com:trailofbits/Honeybee.git
+[submodule "sev/AMDSEV"]
+	path = sev/AMDSEV
+	url = git@github.com:AMDESE/AMDSEV
+[submodule "sev/linux"]
+	path = sev/linux
+	url = git@github.com:AMDESE/linux.git
+[submodule "sev/sev-guest"]
+	path = sev/sev-guest
+	url = git@github.com:AMDESE/sev-guest.git
+[submodule "sev/sev-tool"]
+	path = sev/sev-tool
+	url = git@github.com:AMDESE/sev-tool.git
+[submodule "sev/libkrun"]
+	path = sev/libkrun
+	url = git@github.com:containers/libkrun.git
+[submodule "sev/enarx-keepldr"]
+	path = sev/enarx-keepldr
+	url = git@github.com:enarx/enarx-keepldr.git
+[submodule "sev/sevctl"]
+	path = sev/sevctl
+	url = git@github.com:enarx/sevctl.git
+[submodule "sev/sev-iocuddle"]
+	path = sev/sev-iocuddle
+	url = git@github.com:enarx/sev-iocuddle.git
+[submodule "sev/snp"]
+	path = sev/snp
+	url = git@github.com:enarx/snp.git
+[submodule "sev/severed-framework"]
+	path = sev/severed-framework
+	url = git@github.com:Fraunhofer-AISEC/severed-framework.git
+[submodule "sev/sev"]
+	path = sev/sev
+	url = git@github.com:frozencemetery/sev.git
+[submodule "sev/sev-snp-measure"]
+	path = sev/sev-snp-measure
+	url = git@github.com:IBM/sev-snp-measure.git
+[submodule "sev/vSGX"]
+	path = sev/vSGX
+	url = git@github.com:OSUSecLab/vSGX.git
+[submodule "sev/amd-sev-migration-attack"]
+	path = sev/amd-sev-migration-attack
+	url = git@github.com:PSPReverse/amd-sev-migration-attack.git
+[submodule "sev/amd-sp-glitch"]
+	path = sev/amd-sp-glitch
+	url = git@github.com:PSPReverse/amd-sp-glitch.git
+[submodule "sev/Insecure-Until-Proven-Updated-Analyzing-AMD-SEV-s-Remote-Attestation"]
+	path = sev/Insecure-Until-Proven-Updated-Analyzing-AMD-SEV-s-Remote-Attestation
+	url = git@github.com:PSPReverse/Insecure-Until-Proven-Updated-Analyzing-AMD-SEV-s-Remote-Attestation.git
+[submodule "sev/KVM-Unit-Tests"]
+	path = sev/KVM-Unit-Tests
+	url = git@github.com:pvpk1994/KVM-Unit-Tests.git
+[submodule "sev/gcp_cc_sev_demo"]
+	path = sev/gcp_cc_sev_demo
+	url = git@github.com:salrashid123/gcp_cc_sev_demo.git
+[submodule "sev/sev-ciphertext-side-channels"]
+	path = sev/sev-ciphertext-side-channels
+	url = git@github.com:UzL-ITS/sev-ciphertext-side-channels.git
