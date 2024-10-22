@@ -167,7 +167,7 @@
 	path = intel/sgx/linux-sgx-cat
 	url = git@github.com:StanPlatinum/linux-sgx-cat.git
 [submodule "sgx/tsx-in-sgx"]
-	path = intel/sgx/tsx-in-sgx
+	path = intel/tsx/tsx-in-sgx
 	url = git@github.com:StanPlatinum/tsx-in-sgx.git
 [submodule "sgx/sgxbounds"]
 	path = intel/sgx/sgxbounds
@@ -568,3 +568,21 @@
 [submodule "intel/sgx/DMA"]
 	path = intel/sgx/DMA
 	url = https://github.com/Seix61/DMA.git
+[submodule "intel/sgx/graphene"]
+	path = intel/sgx/graphene
+	url = git@github.com:gramineproject/graphene.git
+[submodule "amd/svm/SVM"]
+	path = amd/svm/SVM
+	url = https://github.com/Maxul/SVM.git
+[submodule "intel/pks/check-pks"]
+	path = intel/pks/check-pks
+	url = https://github.com/Icegrave0391/check-pks.git
+[submodule "intel/sgx/SGX-AES-256"]
+	path = intel/sgx/SGX-AES-256
+	url = https://github.com/Maxul/SGX-AES-256.git
+[submodule "intel/sgx/sgx_vmx_protocol"]
+	path = intel/sgx/sgx_vmx_protocol
+	url = https://github.com/Maxul/sgx_vmx_protocol.git
+[submodule "intel/sgx/x86_world_switch"]
+	path = intel/sgx/x86_world_switch
+	url = https://github.com/Maxul/x86_world_switch.git
