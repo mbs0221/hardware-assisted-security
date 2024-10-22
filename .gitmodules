@@ -305,7 +305,7 @@
 	path = intel/mpk/Dissertation-Public
 	url = git@github.com:ChristopherHammond13/Dissertation-Public.git
 [submodule "mpk/MOAT-Open"]
-	path = intel/mpk/MOAT-Open
+	path = intel/pks/MOAT-Open
 	url = https://github.com/jwnhy/MOAT-Open.git
 [submodule "mpk/sMVX"]
 	path = intel/mpk/sMVX
@@ -362,10 +362,10 @@
 	path = intel/mpk/asplos22-ae
 	url = https://github.com/project-flexos/asplos22-ae.git
 [submodule "mpk/BULKHEAD"]
-	path = intel/mpk/BULKHEAD
+	path = intel/pks/BULKHEAD
 	url = https://github.com/gyg128/BULKHEAD.git
 [submodule "mpk/HAKC"]
-	path = intel/mpk/HAKC
+	path = arm/mte/HAKC
 	url = https://github.com/mit-ll/HAKC.git
 [submodule "mpk/ConfLLVM"]
 	path = intel/mpk/ConfLLVM
@@ -458,7 +458,7 @@
 	path = amd/sev/snp-svsm-vtpm
 	url = https://github.com/stefano-garzarella/snp-svsm-vtpm.git
 [submodule "intel/mpk/linux-pks"]
-	path = intel/mpk/linux-pks
+	path = intel/pks/linux-pks
 	url = https://github.com/Icegrave0391/linux-pks.git
 [submodule "intel/sgx/keystore"]
 	path = intel/sgx/keystore
