@@ -191,7 +191,7 @@
 	path = intel/tsx/tsx
 	url = git@github.com:jarulraj/tsx.git
 [submodule "amd64/x86_64-xsave"]
-	path = x86_64-xsave
+	path = intel/tsx/x86_64-xsave
 	url = git@github.com:lemonrock/x86_64-xsave.git
 [submodule "amd64/libvmi"]
 	path = libvmi
@@ -206,7 +206,7 @@
 	path = intel/tsx/Intel-TSX-test-suite
 	url = git@github.com:vesuppi/Intel-TSX-test-suite.git
 [submodule "amd64/xsave_test"]
-	path = xsave_test
+	path = intel/tsx/xsave_test
 	url = git@github.com:yyu168/xsave_test.git
 [submodule "intel-pt/simple-pt"]
 	path = intel/pt/simple-pt
@@ -586,3 +586,207 @@
 [submodule "intel/sgx/x86_world_switch"]
 	path = intel/sgx/x86_world_switch
 	url = https://github.com/Maxul/x86_world_switch.git
+[submodule "intel/vmfunc/vmfunc_visor"]
+	path = intel/vmfunc/vmfunc_visor
+	url = https://github.com/morimolymoly/vmfunc_visor.git
+[submodule "intel/vmfunc/ELISA"]
+	path = intel/vmfunc/ELISA
+	url = https://github.com/yasukata/ELISA.git
+[submodule "intel/vmfunc/kvm-elisa"]
+	path = intel/vmfunc/kvm-elisa
+	url = https://github.com/yasukata/kvm-elisa.git
+[submodule "intel/vmfunc/libelisa"]
+	path = intel/vmfunc/libelisa
+	url = https://github.com/yasukata/libelisa.git
+[submodule "intel/vmfunc/elisa-app-nop"]
+	path = intel/vmfunc/elisa-app-nop
+	url = https://github.com/yasukata/elisa-app-nop.git
+[submodule "intel/vmfunc/elisa-app-vmnet"]
+	path = intel/vmfunc/elisa-app-vmnet
+	url = https://github.com/yasukata/elisa-app-vmnet.git
+[submodule "intel/vmfunc/elisa-util-exec"]
+	path = intel/vmfunc/elisa-util-exec
+	url = https://github.com/yasukata/elisa-util-exec.git
+[submodule "intel/vmfunc/libelisa-extra"]
+	path = intel/vmfunc/libelisa-extra
+	url = https://github.com/yasukata/libelisa-extra.git
+[submodule "intel/vmfunc/bpf-examples"]
+	path = intel/vmfunc/bpf-examples
+	url = https://github.com/stefanberger/bpf-examples.git
+[submodule "amd/svm/usvm"]
+	path = amd/svm/usvm
+	url = https://github.com/eigenform/usvm.git
+[submodule "amd/svm/grr"]
+	path = amd/svm/grr
+	url = https://github.com/kukrimate/grr.git
+[submodule "amd/svm/vmlaunch"]
+	path = amd/svm/vmlaunch
+	url = https://github.com/vishmohan/vmlaunch.git
+[submodule "amd/svm/cpuio"]
+	path = amd/svm/cpuio
+	url = https://github.com/Luis-Hebendanz/cpuio.git
+[submodule "amd/svm/amd-hypervisor"]
+	path = amd/svm/amd-hypervisor
+	url = https://github.com/sariaki/amd-hypervisor.git
+[submodule "amd/svm/SimpleSvmHook"]
+	path = amd/svm/SimpleSvmHook
+	url = https://github.com/tandasat/SimpleSvmHook.git
+[submodule "amd/svm/HookMsrBySVM"]
+	path = amd/svm/HookMsrBySVM
+	url = https://github.com/hrbust86/HookMsrBySVM.git
+[submodule "amd/svm/SvmNest"]
+	path = amd/svm/SvmNest
+	url = https://github.com/hrbust86/SvmNest.git
+[submodule "amd/svm/SimpleSvm"]
+	path = amd/svm/SimpleSvm
+	url = https://github.com/tandasat/SimpleSvm.git
+[submodule "amd/svm/vmrun"]
+	path = amd/svm/vmrun
+	url = https://github.com/eliaskousk/vmrun.git
+[submodule "intel/vmx/kvmsample"]
+	path = intel/vmx/kvmsample
+	url = https://github.com/soulxu/kvmsample.git
+[submodule "intel/vmx/kvm-kernel-example"]
+	path = intel/vmx/kvm-kernel-example
+	url = https://github.com/david942j/kvm-kernel-example.git
+[submodule "intel/vmx/NoirVisor"]
+	path = intel/vmx/NoirVisor
+	url = https://github.com/Zero-Tang/NoirVisor.git
+[submodule "intel/vmx/loongson-dune"]
+	path = intel/vmx/loongson-dune
+	url = https://github.com/Martins3/loongson-dune.git
+[submodule "intel/vmx/RedDbg"]
+	path = intel/vmx/RedDbg
+	url = https://github.com/HyperDbg/RedDbg.git
+[submodule "intel/vmx/kvm-hello-world"]
+	path = intel/vmx/kvm-hello-world
+	url = https://github.com/dpw/kvm-hello-world.git
+[submodule "intel/vmx/ACON"]
+	path = intel/vmx/ACON
+	url = https://github.com/intel/ACON.git
+[submodule "intel/vmx/bao-hypervisor"]
+	path = intel/vmx/bao-hypervisor
+	url = https://github.com/bao-project/bao-hypervisor.git
+[submodule "intel/vmx/cpu-internals"]
+	path = intel/vmx/cpu-internals
+	url = https://github.com/LordNoteworthy/cpu-internals.git
+[submodule "intel/vmx/ksm"]
+	path = intel/vmx/ksm
+	url = https://github.com/asamy/ksm.git
+[submodule "intel/vmx/lvd-linux"]
+	path = intel/vmx/lvd-linux
+	url = https://github.com/mars-research/lvd-linux.git
+[submodule "intel/vmx/vmfunc_visor"]
+	path = intel/vmx/vmfunc_visor
+	url = https://github.com/morimolymoly/vmfunc_visor.git
+[submodule "intel/vmx/vmm-reference"]
+	path = intel/vmx/vmm-reference
+	url = https://github.com/rust-vmm/vmm-reference.git
+[submodule "intel/vmx/trivial-kvm"]
+	path = intel/vmx/trivial-kvm
+	url = https://github.com/christasa/trivial-kvm.git
+[submodule "intel/vmx/tinyvmi"]
+	path = intel/vmx/tinyvmi
+	url = https://github.com/tinyvmi/tinyvmi.git
+[submodule "intel/vmx/kvmtool"]
+	path = intel/vmx/kvmtool
+	url = https://github.com/kvmtool/kvmtool.git
+[submodule "intel/vmx/Hello-VT-rp"]
+	path = intel/vmx/Hello-VT-rp
+	url = https://github.com/tandasat/Hello-VT-rp.git
+[submodule "intel/vmx/crosvm"]
+	path = intel/vmx/crosvm
+	url = https://github.com/calinyara/crosvm.git
+[submodule "intel/vmx/asor"]
+	path = intel/vmx/asor
+	url = https://github.com/calinyara/asor.git
+[submodule "intel/vmx/airhv"]
+	path = intel/vmx/airhv
+	url = https://github.com/Air14/airhv.git
+[submodule "intel/vmx/libDune"]
+	path = intel/vmx/libDune
+	url = https://github.com/goksyli/libDune.git
+[submodule "intel/vmx/asplos22-ae"]
+	path = intel/vmx/asplos22-ae
+	url = https://github.com/project-flexos/asplos22-ae.git
+[submodule "intel/vmx/CR2"]
+	path = intel/vmx/CR2
+	url = https://github.com/zhexwang/CR2.git
+[submodule "intel/vmx/jailhouse"]
+	path = intel/vmx/jailhouse
+	url = https://github.com/siemens/jailhouse.git
+[submodule "intel/vmx/kit-artifact"]
+	path = intel/vmx/kit-artifact
+	url = https://github.com/rssys/kit-artifact.git
+[submodule "intel/vmx/on-demand-fork"]
+	path = intel/vmx/on-demand-fork
+	url = https://github.com/rssys/on-demand-fork.git
+[submodule "intel/vmx/uswitch"]
+	path = intel/vmx/uswitch
+	url = https://github.com/rssys/uswitch.git
+[submodule "intel/vmx/kvm-sample"]
+	path = intel/vmx/kvm-sample
+	url = https://github.com/uvirt/kvm-sample.git
+[submodule "intel/vmx/fast-trap"]
+	path = intel/vmx/fast-trap
+	url = https://github.com/YdrMaster/fast-trap.git
+[submodule "intel/vmx/Hypervisor-101-in-Rust"]
+	path = intel/vmx/Hypervisor-101-in-Rust
+	url = https://github.com/tandasat/Hypervisor-101-in-Rust.git
+[submodule "intel/vmx/kvm_example"]
+	path = intel/vmx/kvm_example
+	url = https://github.com/tcfw/kvm_example.git
+[submodule "intel/vmx/kvm-examples"]
+	path = intel/vmx/kvm-examples
+	url = https://github.com/tommy-u/kvm-examples.git
+[submodule "intel/vmx/rust-kvm-example"]
+	path = intel/vmx/rust-kvm-example
+	url = https://github.com/funfoolsuzi/rust-kvm-example.git
+[submodule "intel/vmx/kvm-example"]
+	path = intel/vmx/kvm-example
+	url = https://github.com/bmolnar/kvm-example.git
+[submodule "intel/vmx/kvm-api-cpp"]
+	path = intel/vmx/kvm-api-cpp
+	url = https://github.com/m8/kvm-api-cpp.git
+[submodule "intel/vmx/kvmrun"]
+	path = intel/vmx/kvmrun
+	url = https://github.com/loicpoulain/kvmrun.git
+[submodule "intel/vmx/kvmtest"]
+	path = intel/vmx/kvmtest
+	url = https://github.com/MatiasVara/kvmtest.git
+[submodule "intel/vmx/kvm_api_example"]
+	path = intel/vmx/kvm_api_example
+	url = https://github.com/Luis-Hebendanz/kvm_api_example.git
+[submodule "intel/vmx/kvm"]
+	path = intel/vmx/kvm
+	url = https://github.com/aseemsethi/kvm.git
+[submodule "intel/vmx/hellokvm"]
+	path = intel/vmx/hellokvm
+	url = https://github.com/slp/hellokvm.git
+[submodule "intel/vmx/novm"]
+	path = intel/vmx/novm
+	url = https://github.com/google/novm.git
+[submodule "intel/vmx/libvirt_kvm"]
+	path = intel/vmx/libvirt_kvm
+	url = https://github.com/bublik/libvirt_kvm.git
+[submodule "intel/vmx/HYBRID"]
+	path = intel/vmx/HYBRID
+	url = https://github.com/StanPlatinum/HYBRID.git
+[submodule "intel/mpk/x86-sok"]
+	path = intel/mpk/x86-sok
+	url = https://github.com/junxzm1990/x86-sok.git
+[submodule "intel/pt/pomp"]
+	path = intel/pt/pomp
+	url = https://github.com/junxzm1990/pomp.git
+[submodule "intel/tsx/Atomic_Restriction"]
+	path = intel/tsx/Atomic_Restriction
+	url = https://github.com/BlackDiamond1995/Atomic_Restriction.git
+[submodule "intel/pmc/pmctrack"]
+	path = intel/pmc/pmctrack
+	url = https://github.com/jcsaezal/pmctrack.git
+[submodule "arm/mte/security_analysis_mte"]
+	path = arm/mte/security_analysis_mte
+	url = https://github.com/saaramar/security_analysis_mte.git
+[submodule "arm/pac/pactight"]
+	path = arm/pac/pactight
+	url = https://github.com/cosmoss-jigu/pactight.git
