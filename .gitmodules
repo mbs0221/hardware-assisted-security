@@ -193,9 +193,6 @@
 [submodule "amd64/x86_64-xsave"]
 	path = intel/tsx/x86_64-xsave
 	url = git@github.com:lemonrock/x86_64-xsave.git
-[submodule "amd64/libvmi"]
-	path = libvmi
-	url = git@github.com:libvmi/libvmi.git
 [submodule "amd64/HYBRID"]
 	path = intel/lbr/HYBRID
 	url = git@github.com:StanPlatinum/HYBRID.git
