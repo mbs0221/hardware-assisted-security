@@ -12,6 +12,30 @@ amd/svm:
   - hrbust86/SvmNest
   - tandasat/SimpleSvm
 amd/sev:
+  - AMDESE/AMDSEV
+  - AMDESE/linux
+  - AMDESE/sev-guest
+  - AMDESE/sev-tool
+  - containers/libkrun
+  - enarx/enarx-keepldr
+  - enarx/sevctl
+  - enarx/sev-iocuddle
+  - enarx/snp
+  - Fraunhofer-AISEC/severed-framework
+  - frozencemetery/sev
+  - IBM/sev-snp-measure
+  - Masheenist/AMDSEV
+  - OSUSecLab/vSGX
+  - PSPReverse/amd-sev-migration-attack
+  - PSPReverse/amd-sp-glitch
+  - PSPReverse/Insecure-Until-Proven-Updated-Analyzing-AMD-SEV-s-Remote-Attestation
+  - pvpk1994/KVM-Unit-Tests
+  - salrashid123/gcp_cc_sev_demo
+  - sandeepg-gupta/kata-containers-2.0.0-SEV
+  - TCrazylion/SMM-SEV-ResourceCounting
+  - UzL-ITS/sev-ciphertext-side-channels
+  - virtee/sevctl
+  - virtee/sev
   - IBM/sev-snp-measure
   - AMDESE/sev-tool
   - virtee/sev
@@ -97,6 +121,12 @@ amd/sev:
   - svsm-vtpm/SVSM-vTPM-artifacts
   - stefano-garzarella/snp-svsm-vtpm
 intel/vmx:
+ - carter-yagemann/vmi-unpack
+ - libvmi/libvmi
+ - Mic92/vmsh
+ - project-dune/dune
+ - SinaKarvandi/Hypervisor-From-Scratch
+ - Wenzel/libmicrovmi
  - soulxu/kvmsample
  - david942j/kvm-kernel-example
  - Zero-Tang/NoirVisor
@@ -157,7 +187,30 @@ intel/vmfunc:
   - yasukata/elisa-util-exec
   - yasukata/libelisa-extra
   - stefanberger/bpf-examples
+intel/pks:
+  - Icegrave0391/check-pks
+  - Icegrave0391/linux-pks
+  - jwnhy/MOAT-Open
+  - gyg128/BULKHEAD
 intel/mpk:
+  - aghosn/enclosures
+  - BUseclab/mpkalloc
+  - csl-iisc/faastlane
+  - hedayati/hodor
+  - IAIK/Donky
+  - IAIK/Jenny
+  - intel/xom-switch
+  - ku-leuven-msec/The-Cerberus-Project
+  - lsds/CubicleOS
+  - mit-ll/galeed
+  - securesystemslab/PKRU-Safe
+  - sslab-gatech/libmpk
+  - ssrg-vt/libhermitMPK
+  - ssrg-vt/MonGuard
+  - URSec/iskios
+  - VolSec/pku-pitfalls
+  - vusec/memsentry
+  - vahldiek/erim
   - junxzm1990/x86-sok
   - vusec/memsentry
   - hedayati/hodor
@@ -204,11 +257,54 @@ intel/mpk:
   - rssys/uswitch
   - securesystemslab/ia2-provsan
   - struct/mapguard
-intel/pks:
-  - Icegrave0391/check-pks
-  - Icegrave0391/linux-pks
+  - vusec/memsentry
+  - hedayati/hodor
+  - IAIK/Donky
+  - VolSec/pku-pitfalls
+  - IAIK/Jenny
+  - sslab-gatech/libmpk
+  - URSec/iskios
+  - ssrg-vt/libhermitMPK
+  - ku-leuven-msec/The-Cerberus-Project
+  - aghosn/enclosures
+  - securesystemslab/PKRU-Safe
+  - mit-ll/galeed
+  - csl-iisc/faastlane
+  - lsds/CubicleOS
+  - intel/xom-switch
+  - ChristopherHammond13/Dissertation-Public
+  - BUseclab/mpkalloc
   - jwnhy/MOAT-Open
+  - ssrg-vt/sMVX
+  - ssrg-vt/MonGuard
+  - EricssonResearch/secure-rewind-and-discard
+  - EricssonResearch/sdradrustffi
+  - danyangz/lightning
+  - cosmoss-jigu/vip
+  - cosmoss-jigu/TENET
+  - fastlane/fastlane
+  - IAIK/sgxjail
+  - PKU-ASAL/PKUWA
+  - seccompgeek/trust23-metsafe24
+  - CharlyCst/mpk
+  - MrCookieeeee/Smart-Contract-Protection-Method
+  - CharlyCst/MPK_research
+  - arulthileeban/CoMpk
+  - TUM-DSE/Toast
+  - suncongxd/ReCFA
+  - nodropforsecurity/nodrop
+  - project-flexos/asplos22-ae
   - gyg128/BULKHEAD
+  - mit-ll/HAKC
+  - TrustedCloud/ConfLLVM
+  - endokernel/endokernel-paper-ver
+  - hky1999/Unishyper
+  - robinlee09201/ctFS
+  - tum-itsec/islab
+  - tjulym/Chiron
+  - rssys/uswitch
+  - securesystemslab/ia2-provsan
+  - struct/mapguard
 intel/pt:
   - andikleen/simple-pt
   - carter-yagemann/ARCUS
@@ -219,7 +315,90 @@ intel/pt:
   - RUB-SysSec/redqueen
   - trailofbits/Honeybee
   - junxzm1990/pomp
+  - andikleen/simple-pt
+  - carter-yagemann/ARCUS
+  - hunter-ht-2018/ptfuzzer
+  - intel/libipt
+  - nyx-fuzz/libxdc
+  - RUB-SysSec/kAFL
+  - RUB-SysSec/redqueen
+  - trailofbits/Honeybee
 intel/sgx:
+  - apache/incubator-teaclave-sgx-sdk
+  - asonnino/sgx-wallet
+  - ayeks/TresorSGX
+  - blocksecteam/sgxlock
+  - donnod/linux-sgx-mage
+  - HyperEnclave/atc22-ae
+  - IAIK/sgxjail
+  - IAIK/sgxrop
+  - intel/linux-sgx-driver
+  - intel/linux-sgx
+  - IntelSoftware/Tutorial-Password-Manager-with-Intel-SGX
+  - jaebaek/SGX-Shield
+  - jingwei87/sgxdedup
+  - jovanbulck/0xbadc0de
+  - jovanbulck/sgx-sample
+  - jovanbulck/sgx-tutorial-space18
+  - kudelskisecurity/sgx-reencrypt
+  - lsds/sgx-lkl
+  - Maxul/Aurora
+  - Maxul/SGX-Open-Source
+  - occlum/occlum
+  - occlum/reproduce-asplos20
+  - OSUSecLab/SgxPectre
+  - rscosta/SGXCryptoFile
+  - sancus-tee/tutorial-dsn18
+  - shwetasshinde24/Panoply
+  - srsarangi/SGXGauge
+  - SSGAalto/sgx-migration
+  - sslab-gatech/opensgx
+  - sslab-gatech/sgx101-gitbook
+  - sslab-gatech/sgx-tutorial-ccs17
+  - StanPlatinum/bioinfo-meets-sgx
+  - StanPlatinum/linux-sgx-cat
+  - StanPlatinum/tsx-in-sgx
+  - tudinfse/sgxbounds
+  - sslab-gatech/sgx101-gitbook
+  - lsds/sgx-lkl
+  - kudelskisecurity/sgx-reencrypt
+  - StanPlatinum/bioinfo-meets-sgx
+  - apache/incubator-teaclave-sgx-sdk
+  - intel/linux-sgx
+  - StanPlatinum/linux-sgx-cat
+  - occlum/occlum
+  - sslab-gatech/opensgx
+  - occlum/reproduce-asplos20
+  - tudinfse/sgxbounds
+  - rscosta/SGXCryptoFile
+  - jingwei87/sgxdedup
+  - srsarangi/SGXGauge
+  - IAIK/sgxjail
+  - blocksecteam/sgxlock
+  - SSGAalto/sgx-migration
+  - OSUSecLab/SgxPectre
+  - IAIK/sgxrop
+  - jovanbulck/sgx-sample
+  - jaebaek/SGX-Shield
+  - sslab-gatech/sgx-tutorial-ccs17
+  - jovanbulck/sgx-tutorial-space18
+  - asonnino/sgx-wallet
+  - StanPlatinum/tsx-in-sgx
+  - IntelSoftware/Tutorial-Password-Manager-with-Intel-SGX
+  - Maxul/Aurora
+  - shwetasshinde24/Panoply
+  - donnod/linux-sgx-mage
+  - Maxul/Awesome-SGX-Open-Source
+  - intel/linux-sgx-driver
+  - ayeks/TresorSGX
+  - HyperEnclave/atc22-ae
+  - jovanbulck/0xbadc0de
+  - sancus-tee/tutorial-dsn18
+  - hku-systems/uranus
+  - Zildj1an/PopSGX
+  - yzr95924/DEBE
+  - StanPlatinum/mnist-in-enclave
+  - cryptograph/stealthdb
   - sslab-gatech/sgx101-gitbook
   - lsds/sgx-lkl
   - kudelskisecurity/sgx-reencrypt
@@ -320,3 +499,67 @@ arm/mte:
   - mit-ll/HAKC
 arm/pac:
   - cosmoss-jigu/pactight
+intra-domain-isolation:
+ - vusec/memsentry
+ - hedayati/hodor
+ - vahldiek/erim
+ - IAIK/Donky
+ - VolSec/pku-pitfalls
+ - IAIK/Jenny
+ - sslab-gatech/libmpk
+ - URSec/iskios
+ - ssrg-vt/libhermitMPK
+ - ku-leuven-msec/The-Cerberus-Project
+ - aghosn/enclosures
+ - securesystemslab/PKRU-Safe
+ - mit-ll/galeed
+ - csl-iisc/faastlane
+ - lsds/CubicleOS
+ - intel/xom-switch
+ - ChristopherHammond13/Dissertation-Public
+ - BUseclab/mpkalloc
+ - jwnhy/MOAT-Open
+ - ssrg-vt/sMVX
+ - ssrg-vt/MonGuard
+ - EricssonResearch/secure-rewind-and-discard
+ - EricssonResearch/sdradrustffi
+ - danyangz/lightning
+ - cosmoss-jigu/vip
+ - cosmoss-jigu/TENET
+ - PKU-ASAL/NoDrop
+ - fastlane/fastlane
+ - IAIK/sgxjail
+ - PKU-ASAL/PKUWA
+ - seccompgeek/trust23-metsafe24
+ - CharlyCst/mpk
+ - MrCookieeeee/Smart-Contract-Protection-Method
+ - CharlyCst/MPK_research
+ - arulthileeban/CoMpk
+ - TUM-DSE/Toast
+ - suncongxd/ReCFA
+ - nodropforsecurity/nodrop
+ - project-flexos/asplos22-ae
+ - gyg128/BULKHEAD
+ - mit-ll/HAKC
+ - TrustedCloud/ConfLLVM
+ - endokernel/endokernel-paper-ver
+ - hky1999/Unishyper
+ - robinlee09201/ctFS
+ - tum-itsec/islab
+ - tjulym/Chiron
+ - rssys/uswitch
+ - securesystemslab/ia2-provsan
+ - struct/mapguard
+amd64:
+  - andikleen/tsx-tools
+  - BazookaMusic/TSXGuard
+  - BlackDiamond1995/tsx_case_study
+  - blue9057/intel-tsx-sample
+  - intel/uintr-ipc-bench
+  - jarulraj/tsx
+  - lemonrock/x86_64-xsave
+  - libvmi/libvmi
+  - StanPlatinum/HYBRID
+  - StanPlatinum/VMI-as-a-Service
+  - vesuppi/Intel-TSX-test-suite
+  - yyu168/xsave_test

@@ -5,7 +5,7 @@ import subprocess
 import yaml
 
 # 读取 YAML 文件
-yaml_file = "modules.yaml"
+yaml_file = "modules_unique.yaml"
 
 with open(yaml_file, "r") as file:
     courses = yaml.safe_load(file)
@@ -17,10 +17,9 @@ def git_clone(repo_url, target_dir):
     """如果指定目录不存在，克隆仓库到该目录"""
     if not os.path.exists(target_dir):
         print(f"Cloning {repo_url} to {target_dir}...")
-        subprocess.run(["git", "clone", repo_url, target_dir])
     else:
         print(f"Directory {target_dir} already exists.")
-        subprocess.run(["git", "submodule", "add", repo_url, target_dir])
+    subprocess.run(["git", "submodule", "add", repo_url, target_dir])
 
 def git_move(old_dir, new_dir):
     """移动已存在的Git仓库"""

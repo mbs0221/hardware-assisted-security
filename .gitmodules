@@ -790,3 +790,9 @@
 [submodule "arm/pac/pactight"]
 	path = arm/pac/pactight
 	url = https://github.com/cosmoss-jigu/pactight.git
+[submodule "intel/mpk/NoDrop"]
+	path = intel/mpk/NoDrop
+	url = https://github.com/PKU-ASAL/NoDrop.git
+[submodule "intel/mpk/erim"]
+	path = intel/mpk/erim
+	url = https://github.com/vahldiek/erim.git
