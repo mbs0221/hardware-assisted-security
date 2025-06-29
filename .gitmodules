@@ -793,3 +793,42 @@
 [submodule "intel/mpk/erim"]
 	path = intel/mpk/erim
 	url = https://github.com/vahldiek/erim.git
+[submodule "intel/smm/Aptiocalypsis"]
+	path = intel/smm/Aptiocalypsis
+	url = https://github.com/Cr4sh/Aptiocalypsis.git
+[submodule "intel/smm/Hermes"]
+	path = intel/smm/Hermes
+	url = https://github.com/pRain1337/Hermes.git
+[submodule "intel/smm/plouton"]
+	path = intel/smm/plouton
+	url = https://github.com/pRain1337/plouton.git
+[submodule "intel/smm/SmmBackdoorNg"]
+	path = intel/smm/SmmBackdoorNg
+	url = https://github.com/Cr4sh/SmmBackdoorNg.git
+[submodule "intel/smm/SmmExploit"]
+	path = intel/smm/SmmExploit
+	url = https://github.com/tandasat/SmmExploit.git
+[submodule "intel/smm/SmmBackdoor"]
+	path = intel/smm/SmmBackdoor
+	url = https://github.com/Cr4sh/SmmBackdoor.git
+[submodule "intel/smm/smm"]
+	path = intel/smm/smm
+	url = https://github.com/flothrone/smm.git
+[submodule "intel/smm/Platbox"]
+	path = intel/smm/Platbox
+	url = https://gitcode.com/gh_mirrors/pl/Platbox.git
+[submodule "intel/smm/IntelTXE-PoC"]
+	path = intel/smm/IntelTXE-PoC
+	url = https://github.com/ptresearch/IntelTXE-PoC.git
+[submodule "intel/smm/sinkhole"]
+	path = intel/smm/sinkhole
+	url = https://github.com/xoreaxeaxeax/sinkhole.git
+[submodule "amd/sev/gramine-svsm"]
+	path = amd/sev/gramine-svsm
+	url = https://github.com/TUM-DSE/gramine-svsm.git
+[submodule "intel/mpk/uio"]
+	path = intel/mpk/uio
+	url = https://github.com/TUM-DSE/uio
+[submodule "arm/mte/cage-meta"]
+	path = arm/mte/cage-meta
+	url = https://github.com/TUM-DSE/cage-meta
