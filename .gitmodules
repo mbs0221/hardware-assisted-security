@@ -832,3 +832,9 @@
 [submodule "arm/mte/cage-meta"]
 	path = arm/mte/cage-meta
 	url = https://github.com/TUM-DSE/cage-meta
+[submodule "intel/sgx/Pridwen"]
+	path = intel/sgx/Pridwen
+	url = https://github.com/sslab-gatech/Pridwen.git
+[submodule "intel/sgx/seedsync"]
+	path = intel/sgx/seedsync
+	url = git@github.com:adslabcuhk/seedsync.git
