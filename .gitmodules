@@ -841,3 +841,249 @@
 [submodule "amd/sev/RMPocalypse/attack-poc"]
 	path = amd/sev/RMPocalypse/attack-poc
 	url = git@github.com:RMPocalypse/attack-poc.git
+[submodule "intel/sgx/BitObscuro/Obscuro"]
+	path = intel/sgx/BitObscuro/Obscuro
+	url = https://github.com/BitObscuro/Obscuro
+[submodule "intel/sgx/GTA-UFRJ/CACIC-Use-Case"]
+	path = intel/sgx/GTA-UFRJ/CACIC-Use-Case
+	url = https://github.com/GTA-UFRJ/CACIC-Use-Case
+[submodule "intel/sgx/IAIK/sgxjail"]
+	path = intel/sgx/IAIK/sgxjail
+	url = git@github.com:IAIK/sgxjail.git
+[submodule "intel/sgx/IAIK/sgxrop"]
+	path = intel/sgx/IAIK/sgxrop
+	url = https://github.com/IAIK/sgxrop.git
+[submodule "intel/sgx/IAIK/spearv"]
+	path = intel/sgx/IAIK/spearv
+	url = git@github.com:IAIK/spearv.git
+[submodule "intel/sgx/IAIK/CollidePower"]
+	path = intel/sgx/IAIK/CollidePower
+	url = git@github.com:IAIK/CollidePower.git
+[submodule "intel/sgx/IAIK/cache_template_attacks"]
+	path = intel/sgx/IAIK/cache_template_attacks
+	url = git@github.com:IAIK/cache_template_attacks.git
+[submodule "intel/sgx/IntelSoftware/Tutorial-Password-Manager-with-Intel-SGX"]
+	path = intel/sgx/IntelSoftware/Tutorial-Password-Manager-with-Intel-SGX
+	url = https://github.com/IntelSoftware/Tutorial-Password-Manager-with-Intel-SGX.git
+[submodule "intel/sgx/IvanSobko/sgx-enclaves-protocol"]
+	path = intel/sgx/IvanSobko/sgx-enclaves-protocol
+	url = git@github.com:IvanSobko/sgx-enclaves-protocol.git
+[submodule "intel/sgx/Maxul/Aurora"]
+	path = intel/sgx/Maxul/Aurora
+	url = https://github.com/Maxul/Aurora.git
+[submodule "intel/sgx/MonashCybersecurityLab/SGXSSE"]
+	path = intel/sgx/MonashCybersecurityLab/SGXSSE
+	url = https://github.com/MonashCybersecurityLab/SGXSSE
+[submodule "intel/sgx/OSUSecLab/v2v-sgx-prelim"]
+	path = intel/sgx/OSUSecLab/v2v-sgx-prelim
+	url = https://github.com/OSUSecLab/v2v-sgx-prelim
+[submodule "intel/sgx/OSUSecLab/SgxPectre"]
+	path = intel/sgx/OSUSecLab/SgxPectre
+	url = git@github.com:OSUSecLab/SgxPectre.git
+[submodule "intel/sgx/Phala-Network/phala-blockchain"]
+	path = intel/sgx/Phala-Network/phala-blockchain
+	url = https://github.com/Phala-Network/phala-blockchain
+[submodule "intel/sgx/SGX-performance/enclave-Switchless"]
+	path = intel/sgx/SGX-performance/enclave-Switchless
+	url = https://github.com/SGX-performance/enclave-Switchless.git
+[submodule "intel/sgx/SJTU-IPADS/DeSearch"]
+	path = intel/sgx/SJTU-IPADS/DeSearch
+	url = https://github.com/SJTU-IPADS/DeSearch
+[submodule "intel/sgx/SSGAalto/sgx-migration"]
+	path = intel/sgx/SSGAalto/sgx-migration
+	url = https://github.com/SSGAalto/sgx-migration.git
+[submodule "intel/sgx/SabaEskandarian/ObliDB"]
+	path = intel/sgx/SabaEskandarian/ObliDB
+	url = https://github.com/SabaEskandarian/ObliDB
+[submodule "intel/sgx/SafeKeeper/safekeeper-server"]
+	path = intel/sgx/SafeKeeper/safekeeper-server
+	url = https://github.com/SafeKeeper/safekeeper-server.git
+[submodule "intel/sgx/Sand-jrd/SGX-Search"]
+	path = intel/sgx/Sand-jrd/SGX-Search
+	url = https://github.com/Sand-jrd/SGX-Search
+[submodule "intel/sgx/StanPlatinum/tsx-in-sgx"]
+	path = intel/sgx/StanPlatinum/tsx-in-sgx
+	url = https://github.com/StanPlatinum/tsx-in-sgx.git
+[submodule "intel/sgx/StanPlatinum/linux-sgx-cat"]
+	path = intel/sgx/StanPlatinum/linux-sgx-cat
+	url = https://github.com/StanPlatinum/linux-sgx-cat.git
+[submodule "intel/sgx/StanPlatinum/mnist-in-enclave"]
+	path = intel/sgx/StanPlatinum/mnist-in-enclave
+	url = https://github.com/StanPlatinum/mnist-in-enclave.git
+[submodule "intel/sgx/StanPlatinum/bioinfo-meets-sgx"]
+	path = intel/sgx/StanPlatinum/bioinfo-meets-sgx
+	url = https://github.com/StanPlatinum/bioinfo-meets-sgx.git
+[submodule "intel/sgx/anonymous-xh/plinius"]
+	path = intel/sgx/anonymous-xh/plinius
+	url = https://github.com/anonymous-xh/plinius
+[submodule "intel/sgx/apache/incubator-teaclave-sgx-sdk"]
+	path = intel/sgx/apache/incubator-teaclave-sgx-sdk
+	url = https://github.com/apache/incubator-teaclave-sgx-sdk.git
+[submodule "intel/sgx/asonnino/sgx-wallet"]
+	path = intel/sgx/asonnino/sgx-wallet
+	url = https://github.com/asonnino/sgx-wallet.git
+[submodule "intel/sgx/bernymac/BISEN"]
+	path = intel/sgx/bernymac/BISEN
+	url = https://github.com/bernymac/BISEN
+[submodule "intel/sgx/bl4ck5un/Town-Crier"]
+	path = intel/sgx/bl4ck5un/Town-Crier
+	url = https://github.com/bl4ck5un/Town-Crier
+[submodule "intel/sgx/blocksecteam/sgxlock"]
+	path = intel/sgx/blocksecteam/sgxlock
+	url = git@github.com:blocksecteam/sgxlock.git
+[submodule "intel/sgx/cloud-security-research/sgx-kms"]
+	path = intel/sgx/cloud-security-research/sgx-kms
+	url = https://github.com/cloud-security-research/sgx-kms
+[submodule "intel/sgx/cryptograph/stealthdb"]
+	path = intel/sgx/cryptograph/stealthdb
+	url = https://github.com/cryptograph/stealthdb
+[submodule "intel/sgx/dsc-sgx/bwa-sgx-scone"]
+	path = intel/sgx/dsc-sgx/bwa-sgx-scone
+	url = https://github.com/dsc-sgx/bwa-sgx-scone
+[submodule "intel/sgx/fishermano/QShield"]
+	path = intel/sgx/fishermano/QShield
+	url = https://github.com/fishermano/QShield
+[submodule "intel/sgx/fkirc/secure-network-interface-with-sgx"]
+	path = intel/sgx/fkirc/secure-network-interface-with-sgx
+	url = https://github.com/fkirc/secure-network-interface-with-sgx
+[submodule "intel/sgx/ftramer/slalom"]
+	path = intel/sgx/ftramer/slalom
+	url = https://github.com/ftramer/slalom
+[submodule "intel/sgx/hello31337/BI-SGX"]
+	path = intel/sgx/hello31337/BI-SGX
+	url = https://github.com/hello31337/BI-SGX
+[submodule "intel/sgx/hku-systems/SOTER"]
+	path = intel/sgx/hku-systems/SOTER
+	url = https://github.com/hku-systems/SOTER
+[submodule "intel/sgx/hyperledger/fabric-private-chaincode"]
+	path = intel/sgx/hyperledger/fabric-private-chaincode
+	url = https://github.com/hyperledger/fabric-private-chaincode
+[submodule "intel/sgx/ibr-ds/STANlite"]
+	path = intel/sgx/ibr-ds/STANlite
+	url = https://github.com/ibr-ds/STANlite
+[submodule "intel/sgx/intel/linux-sgx"]
+	path = intel/sgx/intel/linux-sgx
+	url = https://github.com/intel/linux-sgx.git
+[submodule "intel/sgx/jaebaek/SGX-Shield"]
+	path = intel/sgx/jaebaek/SGX-Shield
+	url = https://github.com/jaebaek/SGX-Shield.git
+[submodule "intel/sgx/jingwei87/sgxdedup"]
+	path = intel/sgx/jingwei87/sgxdedup
+	url = https://github.com/jingwei87/sgxdedup.git
+[submodule "intel/sgx/jovanbulck/sgx-sample"]
+	path = intel/sgx/jovanbulck/sgx-sample
+	url = https://github.com/jovanbulck/sgx-sample.git
+[submodule "intel/sgx/jovanbulck/sgx-tutorial-space18"]
+	path = intel/sgx/jovanbulck/sgx-tutorial-space18
+	url = https://github.com/jovanbulck/sgx-tutorial-space18.git
+[submodule "intel/sgx/kaist-ina/SGX-Tor"]
+	path = intel/sgx/kaist-ina/SGX-Tor
+	url = https://github.com/kaist-ina/SGX-Tor
+[submodule "intel/sgx/kudelskisecurity/sgx-reencrypt"]
+	path = intel/sgx/kudelskisecurity/sgx-reencrypt
+	url = https://github.com/kudelskisecurity/sgx-reencrypt.git
+[submodule "intel/sgx/lightbox-impl/LightBox"]
+	path = intel/sgx/lightbox-impl/LightBox
+	url = https://github.com/lightbox-impl/LightBox
+[submodule "intel/sgx/linux-sgx-2.26"]
+	path = intel/sgx/linux-sgx-2.26
+	url = https://github.com/intel/linux-sgx.git
+[submodule "intel/sgx/llvm-reusable-enclaves"]
+	path = intel/sgx/llvm-reusable-enclaves
+	url = https://github.com/NSKernel/llvm-reusable-enclaves.git
+[submodule "intel/sgx/lsds/sgx-lkl"]
+	path = intel/sgx/lsds/sgx-lkl
+	url = https://github.com/lsds/sgx-lkl.git
+[submodule "intel/sgx/luckychain/lucky"]
+	path = intel/sgx/luckychain/lucky
+	url = https://github.com/luckychain/lucky
+[submodule "intel/sgx/mbailleu/SpeicherDPDK"]
+	path = intel/sgx/mbailleu/SpeicherDPDK
+	url = https://github.com/mbailleu/SpeicherDPDK
+[submodule "intel/sgx/mbailleu/avocado"]
+	path = intel/sgx/mbailleu/avocado
+	url = https://github.com/mbailleu/avocado
+[submodule "intel/sgx/mc2-project/secure-xgboost"]
+	path = intel/sgx/mc2-project/secure-xgboost
+	url = https://github.com/mc2-project/secure-xgboost
+[submodule "intel/sgx/mc2-project/opaque-sql"]
+	path = intel/sgx/mc2-project/opaque-sql
+	url = https://github.com/mc2-project/opaque-sql
+[submodule "intel/sgx/misc0110/PTEditor"]
+	path = intel/sgx/misc0110/PTEditor
+	url = git@github.com:misc0110/PTEditor.git
+[submodule "intel/sgx/ndokmai/sgx-genotype-imputation"]
+	path = intel/sgx/ndokmai/sgx-genotype-imputation
+	url = https://github.com/ndokmai/sgx-genotype-imputation
+[submodule "intel/sgx/ndokmai/sgx-genome-variants-search"]
+	path = intel/sgx/ndokmai/sgx-genome-variants-search
+	url = https://github.com/ndokmai/sgx-genome-variants-search
+[submodule "intel/sgx/oasisprotocol/oasis-core"]
+	path = intel/sgx/oasisprotocol/oasis-core
+	url = https://github.com/oasisprotocol/oasis-core
+[submodule "intel/sgx/oweisse/hot-calls"]
+	path = intel/sgx/oweisse/hot-calls
+	url = https://github.com/oweisse/hot-calls.git
+[submodule "intel/sgx/prasadkjose/confidential-ml-sgx"]
+	path = intel/sgx/prasadkjose/confidential-ml-sgx
+	url = https://github.com/prasadkjose/confidential-ml-sgx
+[submodule "intel/sgx/rafaelppires/rex"]
+	path = intel/sgx/rafaelppires/rex
+	url = https://github.com/rafaelppires/rex
+[submodule "intel/sgx/rscosta/SGXCryptoFile"]
+	path = intel/sgx/rscosta/SGXCryptoFile
+	url = https://github.com/rscosta/SGXCryptoFile.git
+[submodule "intel/sgx/saart/Twilight"]
+	path = intel/sgx/saart/Twilight
+	url = https://github.com/saart/Twilight
+[submodule "intel/sgx/schuan/dejavu"]
+	path = intel/sgx/schuan/dejavu
+	url = https://github.com/schuan/dejavu.git
+[submodule "intel/sgx/selisproject/pubsub"]
+	path = intel/sgx/selisproject/pubsub
+	url = https://github.com/selisproject/pubsub
+[submodule "intel/sgx/sgx-software-enable"]
+	path = intel/sgx/sgx-software-enable
+	url = https://github.com/intel/sgx-software-enable.git
+[submodule "intel/sgx/signalapp/ContactDiscoveryService"]
+	path = intel/sgx/signalapp/ContactDiscoveryService
+	url = https://github.com/signalapp/ContactDiscoveryService
+[submodule "intel/sgx/sparkly9399/SGX-OpenSSL"]
+	path = intel/sgx/sparkly9399/SGX-OpenSSL
+	url = https://github.com/sparkly9399/SGX-OpenSSL.git
+[submodule "intel/sgx/sparkly9399/SGX-DFC"]
+	path = intel/sgx/sparkly9399/SGX-DFC
+	url = https://github.com/sparkly9399/SGX-DFC.git
+[submodule "intel/sgx/sporgj/nexus-code"]
+	path = intel/sgx/sporgj/nexus-code
+	url = https://github.com/sporgj/nexus-code
+[submodule "intel/sgx/srsarangi/SGXGauge"]
+	path = intel/sgx/srsarangi/SGXGauge
+	url = https://github.com/srsarangi/SGXGauge.git
+[submodule "intel/sgx/sshsshy/ConsenSGX"]
+	path = intel/sgx/sshsshy/ConsenSGX
+	url = https://github.com/sshsshy/ConsenSGX
+[submodule "intel/sgx/sslab-gatech/opensgx"]
+	path = intel/sgx/sslab-gatech/opensgx
+	url = git@github.com:sslab-gatech/opensgx.git
+[submodule "intel/sgx/sslab-gatech/sgx101-gitbook"]
+	path = intel/sgx/sslab-gatech/sgx101-gitbook
+	url = https://github.com/sslab-gatech/sgx101-gitbook.git
+[submodule "intel/sgx/sslab-gatech/sgx-tutorial-ccs17"]
+	path = intel/sgx/sslab-gatech/sgx-tutorial-ccs17
+	url = https://github.com/sslab-gatech/sgx-tutorial-ccs17.git
+[submodule "intel/sgx/tensorflow-lite-sgx"]
+	path = intel/sgx/tensorflow-lite-sgx
+	url = git@github.com:Jumpst3r/tensorflow-lite-sgx.git
+[submodule "intel/sgx/thanghoang/POSUP"]
+	path = intel/sgx/thanghoang/POSUP
+	url = https://github.com/thanghoang/POSUP
+[submodule "intel/sgx/tudinfse/sgxbounds"]
+	path = intel/sgx/tudinfse/sgxbounds
+	url = https://github.com/tudinfse/sgxbounds.git
+[submodule "intel/sgx/ucbrise/snoopy"]
+	path = intel/sgx/ucbrise/snoopy
+	url = https://github.com/ucbrise/snoopy
+[submodule "intel/sgx/yzr95924/DEBE"]
+	path = intel/sgx/yzr95924/DEBE
+	url = https://github.com/yzr95924/DEBE.git
