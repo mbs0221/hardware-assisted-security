@@ -838,3 +838,6 @@
 [submodule "intel/sgx/seedsync"]
 	path = intel/sgx/seedsync
 	url = git@github.com:adslabcuhk/seedsync.git
+[submodule "amd/sev/RMPocalypse/attack-poc"]
+	path = amd/sev/RMPocalypse/attack-poc
+	url = git@github.com:RMPocalypse/attack-poc.git
