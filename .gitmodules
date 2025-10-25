@@ -1087,3 +1087,6 @@
 [submodule "intel/sgx/yzr95924/DEBE"]
 	path = intel/sgx/yzr95924/DEBE
 	url = https://github.com/yzr95924/DEBE.git
+[submodule "intel/sgx/SGXBLAS"]
+	path = intel/sgx/SGXBLAS
+	url = git@github.com:FrameFlip/SGXBLAS.git
