@@ -1090,3 +1090,6 @@
 [submodule "intel/sgx/SGXBLAS"]
 	path = intel/sgx/SGXBLAS
 	url = git@github.com:FrameFlip/SGXBLAS.git
+[submodule "amd/sev/TUM-DSE/Wallet-VMPL"]
+	path = amd/sev/TUM-DSE/Wallet-VMPL
+	url = https://github.com/TUM-DSE/Wallet-VMPL.git
